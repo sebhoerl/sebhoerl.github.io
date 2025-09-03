@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   # image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  #more_info: >
+  #  <p>555 your office number</p>
+  #  <p>123 your address street</p>
+  #  <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interest lies in the replicable use and development of highly disaggregated simulations of complex socio-technical systems with a focus on transportation and mobility. Key aspects of my work is the advancements of methods for the generation of **synthetic populations** and the development of **agent-based simulations**. My overarching goal is to design, develop, and maintain the respective **open-source** tools and strongly foster the use of **open data** to ensure reproducibility in those domains.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+- **Synthetic populations** are detailed digital representations (digital twins) of a territory's population, including households and persons with sociodemographic attributes such as income, age, and gender, as well as spatial attributes such as their place of residence. Furthermore, synthetic populations provide representative *activity chains* which describes what type of activity, at what time, and at which place a synthetic persons is likely to to on an average day. I am the author of the [eqasim-synpop](https://eqasim.org/) framework that allows generating synthetic population data sets based entirly on open data for France and a couple of other use cases.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **Agent-based simulations** of the transport system take synthetic populations as input and simulate the persons' movements between their daily activities. This way, traffic patterns of the real world can be replicated. In a second step, the simulations are used to assess the impact of new technologies, transport policies, and societal changes - on the system or individual (by place of residence, age, ...) level. I am an active maintainer of the agent-based transport simulation framework MATSim and its [eqasim-java](https://eqasim.org/) extension.
+
+Since 2020 I am **Senior Researcher at [IRT SystemX](https://irt-systemx.fr/)**, a private-public research institute in Paris. Furthermore, I am **invited researcher** at [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/) and the **[GRETTIA](https://grettia.univ-gustave-eiffel.fr)** laboratory. Previously, I obtained my PhD at the Institute for Transport Planning and Systems at ETH Zurich.
