@@ -3,7 +3,7 @@ layout: page
 permalink: /students/
 title: students
 # description: Materials for courses you taught. Replace this text with your description.
-nav: false
+nav: true
 nav_order: 4
 ---
 

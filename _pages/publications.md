@@ -11,4 +11,4 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-To be updated
+To be updated, see [Google Scholar](https://scholar.google.com/citations?user=TjbAADcAAAAJ).
