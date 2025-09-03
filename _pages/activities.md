@@ -25,3 +25,14 @@ nav_order: 4
 - Member of the organizing committee of the hEART 2026 conference.
 - Program committee member for the ABMTRANS workshop since 2022.
 - Program committee member for the TRISTAN conference since 2022.
+
+**Other activites**
+
+- Reviewing for 10+ journals in agent-based modeling and transportation
+- Regular participation in thesis progress committees (CSI)
+- Examinator in doctoral committees at Université Gustave Eiffel and ETH Zurich
+
+**Awards**
+
+- Best paper award at the 9th International Workshop on Agent-based Mobility, Traffic and Transportation Models, Methodologies and Applications (2020)
+- Best paper award at the 7th International Workshop on Agent-based Mobility, Traffic and Transportation Models, Methodologies and Applications (2018)
