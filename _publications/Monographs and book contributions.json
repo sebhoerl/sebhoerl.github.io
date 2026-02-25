@@ -1,0 +1,148 @@
+[
+	{
+		"id": "http://zotero.org/users/5068314/items/YMTTKIIJ",
+		"type": "thesis",
+		"genre": "Bachelor thesis",
+		"publisher": "Otto-von-Guericke-University Magdeburg",
+		"publisher-place": "Magdeburg, Germany",
+		"title": "Smooth approximation of two-dimensional G-Code trajectories in time-optimal CNC machining",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/LL854JNL",
+		"type": "thesis",
+		"genre": "Master thesis",
+		"publisher": "Chalmers University of Technology",
+		"publisher-place": "Göteborg, Sweden",
+		"title": "Implementation of an autonomous taxi service in a multi-modal traffic simulation using MATSim",
+		"URL": "https://odr.chalmers.se/items/d6ae3a9b-8ef9-4dfe-af53-9067bb2b7ac4",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/69AH9RTW",
+		"type": "thesis",
+		"genre": "PhD Thesis",
+		"publisher": "ETH Zurich",
+		"publisher-place": "Zürich, Switzerland",
+		"title": "Dynamic demand estimation for Automated Mobility on Demand",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/GZ827D99",
+		"type": "book",
+		"collection-title": "Sustainable Urban Futures",
+		"DOI": "10.1007/978-3-031-45795-1",
+		"ISBN": "978-3-031-45794-4",
+		"language": "en",
+		"license": "https://www.springernature.com/gp/researchers/text-and-data-mining",
+		"publisher": "Springer Nature Switzerland",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "Sustainable Urban Mobility Futures",
+		"URL": "https://link.springer.com/10.1007/978-3-031-45795-1",
+		"author": [
+			{
+				"family": "Gall",
+				"given": "Tjark"
+			},
+			{
+				"family": "Vallet",
+				"given": "Flore"
+			},
+			{
+				"family": "Reyes Madrigal",
+				"given": "Laura Mariana"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Abdin",
+				"given": "Adam"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Puchinger",
+				"given": "Jakob"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/I56YBSPG",
+		"type": "thesis",
+		"genre": "Habilitation à Diriger des Recherches",
+		"publisher": "Université Paris-Est",
+		"publisher-place": "Paris, France",
+		"title": "Towards reproducible agent-based simulations of the transportation system",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					5
+				]
+			]
+		}
+	}
+]

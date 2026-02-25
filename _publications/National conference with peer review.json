@@ -1,0 +1,110 @@
+[
+	{
+		"id": "http://zotero.org/users/5068314/items/DWD93CF2",
+		"type": "paper-conference",
+		"container-title": "18th Swiss Transport Research Conference (STRC)",
+		"event-title": "18th Swiss Transport Research Conference (STRC)",
+		"note": "npr",
+		"publisher-place": "Ascona, Switzerland",
+		"title": "An integrated simulation environment for autonomous mobility on demand in Zurich",
+		"URL": "https://slides.com/sebastianhorl/strc2018",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/9HPBNFMG",
+		"type": "paper-conference",
+		"container-title": "19th Swiss Transport Research Conference (STRC 2019)",
+		"event-title": "19th Swiss Transport Research Conference (STRC 2019)",
+		"note": "npr",
+		"publisher-place": "Ascona, Switzerland",
+		"title": "A ticket-based public transport pricing model for Switzerland",
+		"URL": "https://www.research-collection.ethz.ch/handle/20.500.11850/342816",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/NMQQPDRB",
+		"type": "paper-conference",
+		"container-title": "3èmes Rencontres Francophones Transport Mobilité (RFTM 2021)",
+		"event-title": "3èmes Rencontres Francophones Transport Mobilité (RFTM 2021)",
+		"note": "npr",
+		"publisher-place": "Marne-la-Vallée, France",
+		"title": "Des modèles multi-agent de transport à grande échelle dans le monde francophone",
+		"URL": "https://slides.com/sebastianhorl/rftm21",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Tchervenkov",
+				"given": "Christopher"
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/8SIJNQIT",
+		"type": "paper-conference",
+		"container-title": "7èmes Rencontres Francophones Transport Mobilité (RFTM 2025)",
+		"event-title": "7èmes Rencontres Francophones Transport Mobilité (RFTM 2025)",
+		"note": "npr",
+		"publisher-place": "Dunkerque, France",
+		"title": "Vers la prise en compte des trajets inter-régionaux dans les simulations multi-agent locales de mobilité en utilisant une population synthétique métropolitaine",
+		"URL": "https://hal.science/hal-04969895",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					6
+				]
+			]
+		}
+	}
+]

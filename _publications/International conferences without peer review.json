@@ -1,0 +1,349 @@
+[
+	{
+		"id": "http://zotero.org/users/5068314/items/GNITVRMY",
+		"type": "paper-conference",
+		"container-title": "MATSim User Meeting (MUM 2017)",
+		"event-title": "MATSim User Meeting (MUM 2017)",
+		"note": "inpr",
+		"publisher-place": "Haifa, Israel",
+		"title": "The IVT baseline scenario: Current version and outlook, presentation at the MATSim User Meeting, September 2017",
+		"URL": "https://docs.google.com/presentation/d/1eU8lD3hkxdIzL4d7zRSasrSOLLhbh-WBbseFWtqhopw/edit?usp=sharing",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/AQB79NUS",
+		"type": "article-journal",
+		"container-title": "The International Journal of Life Cycle Assessment",
+		"DOI": "10.1007/s11367-017-1429-1",
+		"ISSN": "1614-7502",
+		"issue": "2",
+		"journalAbbreviation": "Int J Life Cycle Assess",
+		"language": "en",
+		"note": "inpr",
+		"page": "381-386",
+		"source": "Springer Link",
+		"title": "LCA of mobility solutions: approaches and findings—66th LCA forum, Swiss Federal Institute of Technology, Zurich, 30 August, 2017",
+		"title-short": "LCA of mobility solutions",
+		"URL": "https://doi.org/10.1007/s11367-017-1429-1",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Frischknecht",
+				"given": "Rolf"
+			},
+			{
+				"family": "Bauer",
+				"given": "Christian"
+			},
+			{
+				"family": "Froemelt",
+				"given": "Andreas"
+			},
+			{
+				"family": "Hellweg",
+				"given": "Stefanie"
+			},
+			{
+				"family": "Biemann",
+				"given": "Kirsten"
+			},
+			{
+				"family": "Buetler",
+				"given": "Thomas"
+			},
+			{
+				"family": "Cox",
+				"given": "Brian"
+			},
+			{
+				"family": "Haan",
+				"given": "Peter",
+				"non-dropping-particle": "de"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Itten",
+				"given": "René"
+			},
+			{
+				"family": "Jungbluth",
+				"given": "Niels"
+			},
+			{
+				"family": "Ligen",
+				"given": "Yorick"
+			},
+			{
+				"family": "Mathys",
+				"given": "Nicole A."
+			},
+			{
+				"family": "Schiess",
+				"given": "Samuel"
+			},
+			{
+				"family": "Schori",
+				"given": "Salome"
+			},
+			{
+				"family": "Loon",
+				"given": "Patricia",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Wang",
+				"given": "Jing"
+			},
+			{
+				"family": "Wettstein",
+				"given": "Sarah"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/YD5DHDSJ",
+		"type": "paper-conference",
+		"container-title": "MATSim User Meeting (MUM 2019)",
+		"event-title": "MATSim User Meeting (MUM 2019)",
+		"note": "inpr",
+		"publisher-place": "Leuven, Belgium",
+		"title": "Discrete Mode Choice for MATSim",
+		"URL": "https://docs.google.com/presentation/d/1o3Fu5fSxTCK5YWy1nGU-A9OCTPc3u13SJdTBq69dHpo/edit?usp=sharing",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/RD5XRFL4",
+		"type": "paper-conference",
+		"container-title": "MATSim User Meeting (MUM 2023)",
+		"event-title": "MATSim User Meeting (MUM 2023)",
+		"note": "inpr",
+		"publisher-place": "Zurich, Switzerland",
+		"title": "Extending the DRT module to enable simulations of pre-booked MoD services",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/5W9RBGC6",
+		"type": "paper-conference",
+		"container-title": "MATSim User Meeting (MUM 2024)",
+		"event-title": "MATSim User Meeting (MUM 2024)",
+		"note": "inpr",
+		"publisher-place": "Helsinki, Finland",
+		"title": "The FeederDrt extension: simulation of intermodal on-demand services acting as feeders for public transit",
+		"URL": "https://hal.science/hal-04555679v1",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/QYXJ6EGL",
+		"type": "paper-conference",
+		"container-title": "MATSim User Meeting (MUM 2024)",
+		"event-title": "MATSim User Meeting (MUM 2024)",
+		"note": "inpr",
+		"publisher-place": "Helsinki, Finland",
+		"title": "Household Vehicle Sharing in MATSim",
+		"URL": "https://hal.science/hal-04553864",
+		"author": [
+			{
+				"family": "Rewald",
+				"given": "Hannes"
+			},
+			{
+				"family": "Axer",
+				"given": "Steffen"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/RR7HSCMY",
+		"type": "paper-conference",
+		"abstract": "The use of electric vehicles (EVs) is on the rise, and government initiatives are actively promoting their\nadoption. However, compared to internal combustion vehicles (ICVs), EVs still have a limited range and\nrequire more frequent recharging, making the availability of charging infrastructure a crucial factor in\ntheir attractiveness. With the European Union’s plan to phase out the registration of new ICVs, it is\nessential to evaluate the necessary infrastructure and its optimal location to meet the charging needs of\nthe population. Our objective is to develop functionality in MATSim that enables the simulation of charging behavior\nby agents, allowing us to better understand the dynamics of EV charging and optimize the development\nof the necessary infrastructure.",
+		"container-title": "MATSim User Meeting",
+		"note": "inpr",
+		"publisher-place": "Munich, Germany",
+		"source": "HAL",
+		"title": "Simulating individual charging behaviour in MATSim",
+		"URL": "https://hal.science/hal-05117360",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Ludwig",
+				"given": "Oliver"
+			},
+			{
+				"family": "Rewald",
+				"given": "Hannes"
+			},
+			{
+				"family": "Axer",
+				"given": "Steffen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/N4D57D5E",
+		"type": "paper-conference",
+		"abstract": "On-demand mobility systems have been studied extensively for passenger transport. Agent-based simulation frameworks like MATSim allow to perform detailed quantitative analyses and answer a wide range of questions regarding these systems in a localized fashion. In the MATSim example, functionalities related to the on-demand systems are provided by the DVRP and DRT modules. The main target use case being systems serving passengers only, the functionality was implemented with the assumption that each request is associated to a passenger that takes one seat in a vehicle and that a vehicle's capacity can only be represented by the number of seats. In this work, technical developments were performed on the DRT and DVRP modules to remove those assumptions and allow the simulation of more complex systems. For instance, modelling services where vehicles have both a luggage capacity and a passenger capacity and where each traveller can have one or multiple luggages is now possible. \nThis new feature is implemented in a way that allows users to simulate such services simply by adapting input XML files while allowing enough genericity in the code base to write custom implementations. Moreover,",
+		"container-title": "MATSim User Meeting 2025",
+		"note": "inpr",
+		"publisher": "TUM Munich",
+		"publisher-place": "Munich, Germany",
+		"source": "HAL",
+		"title": "Multidimensional vehicle loads and capacities for Demand Responsive Transport in MATSim",
+		"URL": "https://hal.science/hal-05117452",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Grajewski",
+				"given": "Volker"
+			},
+			{
+				"family": "Ludwig",
+				"given": "Oliver"
+			},
+			{
+				"family": "Rewald",
+				"given": "Hannes"
+			},
+			{
+				"family": "Axer",
+				"given": "Steffen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					6
+				]
+			]
+		}
+	}
+]

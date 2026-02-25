@@ -1,0 +1,179 @@
+[
+	{
+		"id": "http://zotero.org/users/5068314/items/KJS7H9ML",
+		"type": "report",
+		"genre": "Working paper",
+		"number": "1216",
+		"publisher": "Institute for Transport Planning (IVT), ETH Zurich",
+		"publisher-place": "Zurich, Switzerland",
+		"title": "Recent perspectives on the impact of autonomous vehicles",
+		"URL": "https://www.research-collection.ethz.ch/handle/20.500.11850/121359",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Ciari",
+				"given": "Francesco"
+			},
+			{
+				"family": "Axhausen",
+				"given": "K. W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/U2AJPHVN",
+		"type": "report",
+		"genre": "Project report",
+		"number": "SVI 2016/001",
+		"publisher": "Institute for Transport Planning (IVT), ETH Zurich",
+		"publisher-place": "Zurich, Switzerland",
+		"title": "Induced demand by autonomous vehicles: An assessment",
+		"URL": "https://ethz.ch/content/dam/ethz/special-interest/baug/ivt/ivt-dam/vpl/reports/1401-1500/ab1433.pdf",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Becker",
+				"given": "Felix"
+			},
+			{
+				"family": "Dubernet",
+				"given": "T.D."
+			},
+			{
+				"family": "Axhausen",
+				"given": "K.W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/HPZXFE95",
+		"type": "article-magazine",
+		"container-title": "Straßenverkehrstechnik",
+		"issue": "4",
+		"page": "277-281",
+		"title": "Dynamische Nachfrageabschätzung für ein AMoD-System in Zürich",
+		"volume": "2019",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Becker",
+				"given": "Felix"
+			},
+			{
+				"family": "Axhausen",
+				"given": "K.W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/KTWSR4CA",
+		"type": "article-journal",
+		"abstract": "Hörl and Balac [1] describe a data pipeline to generate a synthetic travel demand for Paris and Île-de-France. The data set consists of households, persons and their daily activity chains. It can be used in transport simulation, energy analysis and other research fields such as epidemiology. This data-in-brief article describes in detail the generated data set and how it can be regenerated based on publicly available and open data. The characteristics and pre-processing steps for the input data sets are covered in detail.",
+		"container-title": "Data in Brief",
+		"DOI": "10.1016/j.dib.2021.107622",
+		"ISSN": "2352-3409",
+		"journalAbbreviation": "Data in Brief",
+		"page": "107622",
+		"source": "ScienceDirect",
+		"title": "Open synthetic travel demand for Paris and Île-de-France: Inputs and output data",
+		"title-short": "Open synthetic travel demand for Paris and Île-de-France",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2352340921008970",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/6L4EE695",
+		"type": "report",
+		"genre": "White paper",
+		"publisher": "IRT SystemX",
+		"publisher-place": "Palaiseau, France",
+		"title": "Des populations synthétiques ouvertes et replicables pour la France: approche, usages et prochaines étapes",
+		"URL": "https://hal.science/hal-05018081v1",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Laurent",
+				"given": "Marie"
+			},
+			{
+				"family": "Le Bescond",
+				"given": "Valentin"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Vandanjon",
+				"given": "Pierre-Olivier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,892 @@
+[
+	{
+		"id": "http://zotero.org/users/5068314/items/HHJ7WBP8",
+		"type": "article-journal",
+		"abstract": "We evaluate performance of four different operational policies to control an automated mobility-on-demand system with sequential vehicle-sharing in one public open-source-accessible, agent-based, high fidelity simulation environment. Detailed network dynamics on a road level of precision are taken into account. The case study is conducted in a simulation scenario of Zurich city. The results indicate that automated vehicles’ shared mobility systems can provide approximately six times higher occupancy rates than conventional private cars, but that their costs – in Switzerland – are considerably higher than those of subsidized public transport or private cars in the short term. However, these services are predicted to be considerably cheaper than the full costs of owning and using a private car, which makes the long-term adoption of automated taxi services likely. Simulations demonstrate that choice of fleet operational policy determining customer-vehicle assignment and repositioning of empty vehicles (rebalancing) heavily influences system performance, e.g., wait times and cost. This aspect must thus be regarded as an important factor in the interpretation of existing and future simulation studies.",
+		"container-title": "Transportation Research Part C: Emerging Technologies",
+		"DOI": "10.1016/j.trc.2019.02.020",
+		"journalAbbreviation": "Transportation Research Part C: Emerging Technologies",
+		"note": "ijpr",
+		"page": "20-31",
+		"title": "Fleet operational policies for automated mobility: A simulation assessment for Zurich",
+		"volume": "102",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "S."
+			},
+			{
+				"family": "Ruch",
+				"given": "C."
+			},
+			{
+				"family": "Becker",
+				"given": "F."
+			},
+			{
+				"family": "Frazzoli",
+				"given": "E."
+			},
+			{
+				"family": "Axhausen",
+				"given": "K. W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/NHM9IFSZ",
+		"type": "article-journal",
+		"abstract": "Public transport lines, especially train lines, have historically played an important role as economic lifelines of rural areas. They are one of the most important factors contributing to economic prosperity as they provide access to mobility for all the inhabitants of these regions. Maintaining such rural public transport lines can be a challenge due to the low utilization inherent to rural areas. Today, with the emergence of fully self-driving cars, on-demand mobility schemes in which autonomous robotic taxis transport passengers, are becoming possible. In this work, we analyze if rural public transport lines with low utilization can be replaced with autonomous mobility-on-demand systems. More specifically, we compare the existing public transportation infrastructure to hypothetical mobility-on-demand systems both in terms of cost and service level. We perform our analysis, which focuses on the operational aspects, using a simulation approach in which unit-capacity robotic taxis are operated in a street network taking into account congestion effects and state-of-the-art control (dispatching and rebalancing) strategies. Our study considers the case of four rural train lines in Switzerland that operate at low utilization and cost coverage. We show that a unit-capacity mobility-on-demand service with self-driving cars reduces both travel times and operational cost in three out of four cases. In one case, even a service with human driven vehicles would provide higher service levels at lower cost. The results suggest that centrally coordinated mobility-on-demand schemes could be a very attractive option for rural areas.",
+		"container-title": "Transportation Research Part A: Policy and Practice",
+		"DOI": "10.1016/j.tra.2020.01.020",
+		"journalAbbreviation": "Transportation Research Part A: Policy and Practice",
+		"note": "ijpr",
+		"page": "35-51",
+		"title": "Improved public transportation in rural areas with self-driving cars: A study on the operation of Swiss train lines",
+		"volume": "134",
+		"author": [
+			{
+				"family": "Sieber",
+				"given": "L."
+			},
+			{
+				"family": "Ruch",
+				"given": "C."
+			},
+			{
+				"family": "Hörl",
+				"given": "S."
+			},
+			{
+				"family": "Axhausen",
+				"given": "K. W."
+			},
+			{
+				"family": "Frazzoli",
+				"given": "E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/9YSCVZK3",
+		"type": "article-journal",
+		"abstract": "An agent-based simulation framework is extended to design efficient large-scale public transport networks. It goes beyond existing approaches by incorporating a dynamic demand response towards both changes in the network and exogenous factors. The framework is based on an agent-based (MATSim) simulation and tested for the city of Zurich. In contrast to most existing public transport network optimization approaches, this framework is part of a city-level, multi-modal transport simulation tool. Compared to the existing public transport system, it proposes a sparser network with smaller vehicles and substantially higher frequencies. By doing so, the approach predicts a higher transit ridership at a lower level of subsidies. Moreover, it reliably identifies corridors for potential capacity upgrades. The method may help transport planners to assess their existing public transport networks and to plan public transport infrastructure for the era of automated vehicles.",
+		"container-title": "Transportation Research Part A: Policy and Practice",
+		"DOI": "10.1016/j.tra.2020.04.011",
+		"journalAbbreviation": "Transportation Research Part A: Policy and Practice",
+		"note": "ijpr",
+		"page": "1-15",
+		"title": "Designing a large-scale public transport network using agent-based microsimulation",
+		"volume": "137",
+		"author": [
+			{
+				"family": "Manser",
+				"given": "Patrick"
+			},
+			{
+				"family": "Becker",
+				"given": "Henrik"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Axhausen",
+				"given": "Kay W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/DGGWHMMY",
+		"type": "article-journal",
+		"abstract": "This paper proposes an (automated) on-demand public transport service using different vehicle capacities to serve current car demand in cities. The service relies on space and time aggregation of passengers that have similar origins and destinations. It provides a point-to-point service with predefined pick-up and drop-off locations. In this way, detours to pick-up en-route passengers is avoided. The optimization problem that minimizes the fleet size along with limiting rebalancing distances is defined as a mixed-integer linear programming problem. Solving the problem for Zurich, Switzerland, yields, in the best case, a fleet size equal to 3.7% of the current fleet that could serve current car demand. Vehicle kilometers traveled could also be reduced by nearly 10%. Results also show that the speed of automated vehicles has a substantial effect on the necessary fleet size and free-flow speeds generally produce over-optimistic results.",
+		"container-title": "Transportation Research Record",
+		"DOI": "10.1177/0361198120927388",
+		"issue": "9",
+		"note": "ijpr",
+		"page": "168-176",
+		"title": "Fleet Sizing for Pooled (Automated) Vehicle Fleets",
+		"volume": "2674",
+		"author": [
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Axhausen",
+				"given": "Kay W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/YKGYAWEW",
+		"type": "article-journal",
+		"abstract": "Automated Mobility on Demand (AMoD) is a concept that has recently generated much discussion. In cases where large-scale adoption of an automated taxi service is anticipated, the service’s impacts may become relevant to key transport system metrics, and thus to transport planners and policy-makers as well. In light of this increasingly important question, this paper presents an agent-based transport simulation with (single passenger) AMoD. In contrast to earlier studies, all scenario data (including demand patterns, cost assumptions and customer behaviour) is obtained for one specific area, the city of Zurich, Switzerland. The simulation study fuses information from a detailed bottom-up cost analysis of mobility services in Switzerland, a specifically tailored Stated-Preferences survey about automated mobility services conducted in the canton of Zurich, and a detailed agent-based transport simulation for the city, based on MATSim. Methodologically, a comprehensive approach is presented that iteratively runs these components to derive states in which service cost, waiting times and demand are in equilibrium for a cost-covering AMoD operator with predefined fleet size. For Zurich, several cases are examined, with 4,000 AMoD vehicles leading to the maximum demand of around 150,000 requests per day that can be attracted by the system. Within these parameters, the simulation results show that customers are willing to accept average waiting times of around 4 min at a price of 0.75 CHF/km. Further cost-covering cases with lower demand are presented, where either smaller fleet sizes lead to higher waiting times, or larger fleet sizes lead to higher costs. While our simulations indicate that an AMoD system in Zurich can bring benefits to the users, they show that the system impact is largely negative. Caused by modal shifts, our simulations show an increase of driven distance of up to 100%. All examined fleet configurations of the unregulated, cost-covering, single-passenger, door-to-door AMoD service are found to be highly counter-productive on a path towards a more shared and active transport system. Accordingly, policy recommendations for regulation are discussed.",
+		"container-title": "Transportation Research Part C: Emerging Technologies",
+		"DOI": "10.1016/j.trc.2021.102974",
+		"journalAbbreviation": "Transportation Research Part C: Emerging Technologies",
+		"note": "ijpr",
+		"page": "102974",
+		"title": "Simulation of price, customer behaviour and system impact for a cost-covering automated taxi system in Zurich",
+		"volume": "123",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Becker",
+				"given": "Felix"
+			},
+			{
+				"family": "Axhausen",
+				"given": "Kay W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/QHGWM62V",
+		"type": "article-journal",
+		"abstract": "Synthetic populations of travelers and their detailed mobility behavior are an important basis for agent-based transport simulations, which are increasingly used in transport planning and research today. To date, research based on such simulations is rarely replicable as it is based on proprietary data and tools. To foster the discussion and steer research towards reproducible transport simulations, this paper introduces a process for generating a synthetic travel demand with individual households, persons, and their daily activity chains for Paris and its surrounding region Île-de-France — entirely based on open data and open software and replicable by any researcher. The resulting travel demand is published for others to use as a comprehensive data basis for agent-based transport simulations and as a test bed for population and demand synthesis algorithms. Furthermore, it is discussed how implicit correlation structures impact the potential use cases of the synthetic travel demand for simulation and analysis purposes and how the common practice of using population samples for downstream simulations affects the results.",
+		"container-title": "Transportation Research Part C: Emerging Technologies",
+		"DOI": "10.1016/j.trc.2021.103291",
+		"journalAbbreviation": "Transportation Research Part C: Emerging Technologies",
+		"note": "ijpr",
+		"page": "103291",
+		"source": "ScienceDirect",
+		"title": "Synthetic population and travel demand for Paris and Île-de-France based on open and publicly available data",
+		"volume": "130",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/JYR5VQVE",
+		"type": "article-journal",
+		"abstract": "In a coordinated mobility-on-demand system, a fleet of vehicles is controlled by a central unit and serves transportation requests in an on-demand fashion. An emerging field of research aims at finding the best way to operate these systems given certain targets, e.g., customer service level or the minimization of fleet distance. In this work, we introduce a new element of fleet operation: the assignment of idle vehicles to a limited set of parking spots. We present two different parking operating policies governing this process and then evaluate them individually and together on different parking space distributions. We show that even for a highly restricted number of available parking spaces, the system can perform quite well, even though the total fleet distance is increased by 20% and waiting time by 10%. With only one parking space available per vehicle, the waiting times can be reduced by 30% with 20% increase in total fleet distance. Our findings suggest that increasing the parking capacity beyond one parking space per vehicle does not bring additional benefits. Finally, we also highlight possible directions for future research such as to find the best distribution of parking spaces for a given mobility-on-demand system and city.",
+		"container-title": "Vehicles",
+		"DOI": "10.3390/vehicles3020017",
+		"issue": "2",
+		"note": "ijpr",
+		"page": "272-286",
+		"publisher": "Multidisciplinary Digital Publishing Institute",
+		"title": "Simulation-Based Assessment of Parking Constraints for Automated Mobility on Demand: A Case Study of Zurich",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Ruch",
+				"given": "Claudio"
+			},
+			{
+				"family": "Ehrler",
+				"given": "Roman"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Frazzoli",
+				"given": "Emilio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/5PWYS68T",
+		"type": "article-journal",
+		"abstract": "Agent-based transport models demand that the daily activity patterns of artificial agents are described in great detail. While choice models for residential locations or workplaces exist, only few approaches are available to find locations for highly constrained secondary activities such as grocery shopping or recreation at high resolution. The paper describes a data-driven approach of assigning viable locations to such secondary locations while maintaining consistency with homes, workplaces and other fixed points in an artificial traveler's daily plan. Two use cases for Switzerland and Île-de-France are presented, which show that the algorithm is able to assign locations while providing realistic distance distributions that are consistent with mode-specific travel times.",
+		"container-title": "Transportmetrica A: Transport Science",
+		"DOI": "10.1080/23249935.2021.1982068",
+		"issue": "2",
+		"note": "ijpr",
+		"page": "1982068",
+		"publisher": "Taylor & Francis",
+		"title": "Relaxation–discretization algorithm for spatially constrained secondary location assignment",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Axhausen",
+				"given": "Kay W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/48MYRSIA",
+		"type": "article-journal",
+		"abstract": "This paper presents a synthetic travel demand for the Greater São Paulo Metropolitan Region of Brazil, entirely based on open data and representative of the observed travel demand. The open-source and extendable pipeline creates a path from raw data to the synthetic travel demand and, further, to the downstream agent-based mobility simulation. An advantage of this approach is that it enables the reproduction of the synthetic travel demand and, therefore, provides the foundation of repeatability of downstream studies. Furthermore, as the methodology is based on open data, the study’s outcomes are easily accessible to the broad research and practice-oriented community.",
+		"container-title": "Regional Studies, Regional Science",
+		"DOI": "10.1080/21681376.2021.1968941",
+		"issue": "1",
+		"note": "ijpr",
+		"page": "371-386",
+		"title": "An open data-driven approach for travel demand synthesis: an application to São Paulo",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Sallard",
+				"given": "Aurore"
+			},
+			{
+				"family": "Balać",
+				"given": "Miloš"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/WNCJYJ2N",
+		"type": "article-journal",
+		"abstract": "On-demand mobility has existed for more than 100 years in the form of taxi systems. Comparatively recently, ride-hailing schemes have also grown to a significant mode share. Most types of such one-way mobility-on-demand systems allow drivers taking independent decisions. These systems are not or only partially coordinated. In a different operating mode, all decisions are coordinated by the operator, allowing for the optimization of certain metrics. Such a coordinated operation is also implied if human-driven vehicles are replaced by self-driving cars. This work quantifies the service quality and efficiency improvements resulting from the coordination of taxi fleets. Results based on high-fidelity transportation simulations and data sets of existing taxi systems are presented for the cities of San Francisco, Chicago, and Zurich. They show that fleet coordination can strongly improve the efficiency and service level of existing systems. Depending on the operator and the city’s preferences, empty vehicle distance driven and fleet sizes could be substantially reduced, or the wait times could be reduced while maintaining the current fleet sizes. The study provides clear evidence that full fleet coordination should be implemented in existing mobility-on-demand systems, even before the availability of self-driving cars.",
+		"container-title": "Journal of Advanced Transportation",
+		"DOI": "10.1155/2021/2145716",
+		"issue": "1",
+		"note": "ijpr",
+		"page": "2145716",
+		"title": "The Impact of Fleet Coordination on Taxi Operations",
+		"volume": "2021",
+		"author": [
+			{
+				"family": "Ruch",
+				"given": "Claudio"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Gächter",
+				"given": "Joel"
+			},
+			{
+				"family": "Hakenberg",
+				"given": "Jan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/NI95KNTJ",
+		"type": "article-journal",
+		"container-title": "International Journal for Traffic and Transport Engineering",
+		"DOI": "10.7708/ijtte2022.12(3).04",
+		"issue": "3",
+		"note": "ijpr",
+		"title": "Adapting JSprit for the Electric Vehicle Routing Problem with Recharging: Implementation and Benchmark",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Mahmoud",
+				"given": "Aiman"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Puchinger",
+				"given": "Jakob"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/BZ452CJW",
+		"type": "article-journal",
+		"abstract": "This paper presents an approach to estimate mode-choice models from spatially anonymized revealed preference travel survey data. We propose an algorithm to find a feasible sequence of activity locations for each individual that minimizes the maximum error of each trip’s Euclidean distance within the activity chain. The synthetic activity locations are then used to create unchosen alternatives within the choice set for each individual. This is followed by the mode-choice model estimation. We test our approach on three large-scale travel surveys conducted in Switzerland, Île-de-France, and São Paulo. We find that our methodological approach can reconstruct activity locations that accurately match trip Euclidean distances but with location errors that still provide location protection. The discrete mode-choice models estimated on the synthetic locations perform similarly, in terms of goodness of fit and prediction, to the ones obtained from the observed activity locations.",
+		"container-title": "Transportation",
+		"DOI": "10.1007/s11116-022-10337-1",
+		"issue": "2",
+		"journalAbbreviation": "Transportation",
+		"note": "ijpr",
+		"page": "351-370",
+		"title": "Discrete choice modeling with anonymized data",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Schmid",
+				"given": "Basil"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/UB6HTVPD",
+		"type": "article-journal",
+		"abstract": "On-demand ride-pooling systems have gained increasing attention in science and practice in recent years. Simulation studies have shown an enormous potential to reduce fleet sizes and vehicle kilometers traveled if private car trips are replaced with ride-pooling services. However, existing simulation studies assume operation with autonomous vehicles, with no restrictions on operational tasks required when the vehicles are operated by manual drivers. In this article, we simulate and evaluate the operational challenges of non-autonomous ride-pooling systems through driver shifts and breaks and compare their capacity and efficiency to autonomous on-demand services. Based on the existing ride-pooling service MOIA in Hamburg, Germany, we introduce shift and break schedules and implement a new hub return logic to perform the respective tasks at different types of vehicle hubs. This way, currently operating on-demand services are modeled more realistically and the efficiency gains of such services through autonomous vehicles are quantified. The results suggest that operational challenges substantially limit the ride-pooling capacity in terms of served rides with a given number of vehicles. While results largely depend on the chosen shift plan, the presented operational factors should be considered for the assessment of current operational real-world services. The contribution of this study is threefold: From a technical perspective, it is shown that the explicit simulation of operational constraints of current services is crucial to assess ride-pooling services. From a policy perspective, the study shows the operational challenges of a ride-pooling service with non-autonomous vehicles and the potential of future autonomous services. Lastly, the paper adds to the literature a practical ride-pooling simulation use case based on observed real-world demand and shift data.",
+		"container-title": "Transportation Research Part A: Policy and Practice",
+		"DOI": "10.1016/j.tra.2022.09.001",
+		"journalAbbreviation": "Transportation Research Part A: Policy and Practice",
+		"note": "ijpr",
+		"page": "300-320",
+		"title": "Shifts in perspective: Operational aspects in (non-)autonomous ride-pooling simulations",
+		"volume": "165",
+		"author": [
+			{
+				"family": "Zwick",
+				"given": "Felix"
+			},
+			{
+				"family": "Kuehnel",
+				"given": "Nico"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/YIBI7I8V",
+		"type": "article-journal",
+		"abstract": "With the introduction of automated vehicles, new operating regimes for public transport services will become possible. A station-based Automated Transit on Demand service could be an attractive alternative to the current modes of transportation. In this paper, the impact of this kind of service on the modal share for the city of Zurich, Switzerland, and its surrounding area is modeled using an agent-based approach. Different scenarios regarding the operating area, pricing scheme, and a cordon charge are tested on their potential to make use of the benefits of the new service while preventing an overflow of automated vehicles in the urban core. Results show that if left unconstrained the proposed service can substantially impact the demand for public transport. A pricing scheme that bases the pricing of the new service relative to the accessibility of the current public transport service is a promising solution to increase the accessibility of the rural areas while maintaining a high modal share for public transport in the city center. Finally, using an optimization algorithm we show that the total car-fleet and public parking space can be reduced at the cost of a slight increase in vehicle kilometers traveled. Moreover, we find that the cost coverage of the proposed transit service is potentially much higher in comparison to current public transport services.",
+		"container-title": "Journal of Urban Mobility",
+		"DOI": "10.1016/j.urbmob.2022.100038",
+		"journalAbbreviation": "Journal of Urban Mobility",
+		"note": "ijpr",
+		"page": "100038",
+		"title": "Assessing service characteristics of an automated transit on-demand service",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Räth",
+				"given": "Yves M."
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Axhausen",
+				"given": "Kay W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/2AYXM457",
+		"type": "article-journal",
+		"abstract": "Urban logistics is one of the key elements of urban mobility planning. The use of real-time information systems in logistics operations generates an enormous amount of data, nowadays used mainly for the purpose of monitoring and control of large flows of goods. At the same time, urban planners, business stakeholders, and city administrators are in need of adaptive, data-driven decision support solutions to address today's urban logistics problems. Recently, digital twins have received a lot of attention to support advanced experimentation, simulation and decision-making for on-demand logistics operations. Questions still remain on how to realize these for urban logistics management in a mixed public-private stakeholder context. We argue that this lack of a specific framework for city logistics with a model library for data mergers, linking physical and virtual data exchange, can compromise the timely adoption of digital twin technology. We contribute to filling this gap by presenting a systematic review of the literature, proposing a conceptual framework for digital twin applications in urban logistics, and providing use case scenarios for their demonstration. Together, these should advance the technical implementation of digital twins in a sustainable city logistics context.",
+		"container-title": "Computers, Environment and Urban Systems",
+		"DOI": "10.1016/j.compenvurbsys.2023.101989",
+		"journalAbbreviation": "Computers, Environment and Urban Systems",
+		"note": "ijpr",
+		"page": "101989",
+		"title": "A conceptual digital twin framework for city logistics",
+		"volume": "103",
+		"author": [
+			{
+				"family": "Belfadel",
+				"given": "Abdelhadi"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Tapia",
+				"given": "Rodrigo Javier"
+			},
+			{
+				"family": "Politaki",
+				"given": "Dimitra"
+			},
+			{
+				"family": "Kureshi",
+				"given": "Ibad"
+			},
+			{
+				"family": "Tavasszy",
+				"given": "Lorant"
+			},
+			{
+				"family": "Puchinger",
+				"given": "Jakob"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/3RQCFE83",
+		"type": "article-journal",
+		"abstract": "Urban mobility contributes significantly to greenhouse gas emissions and comes with negative social impacts for various groups, such as limited accessibility to opportunity or basic services. Transitions towards sustainable and people-centred urban mobility systems are paramount. Yet, this is accompanied by various challenges. Complex urban systems are accompanied by high uncertainties (e.g., technological progress, demographics, climate change) which are currently not well integrated. Possible solutions originate from design, policymaking, and innovation, with a widespread disconnection due to non-compatible methods. This paper presents a method to improve the ability to design future urban mobility systems by integrating different approaches for modelling what the future could be and who could be the users. The research question is how diverse future user needs can be integrated in design processes for urban mobility systems. The proposed scenario-based design and personas allows to create data-driven proto-personas—a set of archetypical users with assigned characteristics and behaviours—test their validity, derive distributions across geographical areas, and transform them for different 2030 scenarios. This serves as input to create full personas and synthetic populations as intermediary design objects for the collaboration of designers and simulation experts. The methodology is exemplarily applied in the context of Paris. It contributes to urban mobility solution design that is more aware of future uncertainty and diverse needs of users, therefore, better capable to respond to today’s challenges. The approach is replicable with open data and accessible source code: https://github.com/TjarkGall/proto-persona-clustering.",
+		"container-title": "European Transport Research Review",
+		"DOI": "10.1186/s12544-023-00622-0",
+		"issue": "1",
+		"note": "ijpr",
+		"page": "45",
+		"title": "Integrating future trends and uncertainties in urban mobility design via data-driven personas and scenarios",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Gall",
+				"given": "Tjark"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Vallet",
+				"given": "Flore"
+			},
+			{
+				"family": "Yannou",
+				"given": "Bernard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/GCSPTT2C",
+		"type": "article-journal",
+		"abstract": "The dynamics of urban transportation can be captured using activity-based models, which rely on travel demand data to get a comprehensive understanding of urban mobility. This data is usually derived from population samples and Household Travel Surveys (HTSs), which can be expensive and as a result, are conducted only every 5 to 10 years. Moreover, due to their limited reach, they are not adapted to represent the spatio-temporal structure of the flows of the total population. This calls for complementary data sources that could be used to update old surveys to cut costs and to estimate the global spatial mobility behavior of the population. In this paper, we propose steps in the state-of-the-art pipeline for travel demand synthesis with an approach for the temporal calibration and the location attribution based on time-dependent origin–destination (OD) matrices. These matrices describe the flows between zones of a city. This methodology is illustrated on the city of Lyon, France, with OD matrices estimated from the mobile phone activity of the subscribers of French telecom operator Orange. We explore how the spatialization can be performed using various probabilistic graph models whose parameters are evaluated via the OD matrices. The structure of the models enforces the consistency of the locations with the chains of activities, such as the fact that two “home” activities must have the same location. Multiple models are proposed, corresponding to different compromises between the two potentially incompatible sources that are HTS and mobile data. We show that while a very naive spatialization approach allows the generation of synthetic travel demand that perfectly fits the flows described by the OD matrices without respecting the consistency of the locations, the other proposed approaches offer much more realistic agendas at the expense of only small discrepancies with the mobile data.",
+		"container-title": "Transportation",
+		"DOI": "10.1007/s11116-024-10524-2",
+		"journalAbbreviation": "Transportation",
+		"note": "ijpr",
+		"title": "Improving the generation of synthetic travel demand using origin–destination matrices from mobile phone data",
+		"author": [
+			{
+				"family": "Matet",
+				"given": "Benoît"
+			},
+			{
+				"family": "Côme",
+				"given": "Etienne"
+			},
+			{
+				"family": "Furno",
+				"given": "Angelo"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Oukhellou",
+				"given": "Latifa"
+			},
+			{
+				"family": "El Faouzi",
+				"given": "Nour-Eddin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/828432VD",
+		"type": "article-journal",
+		"abstract": "The technological development of autonomous vehicles (AVs) challenges their economic relevancy. Are AVs worth it? We adapted the cost–benefit analysis framework to the case of AV services. The appraisal methodology was applied to the introduction of an on-demand AV service in Berlin, simulated through MATSim, an agent-based model. The introduction of AVs in a dense urban environment would generate more pressure on the road network. This would cause private car users to experience longer travel times, resulting in a consumer surplus loss that would not offset the new AV users’ benefits. In one configuration, a stop-based routing service appeared to generate fewer externalities (e.g., congestion, emissions, accidents) and would be cheaper to operate than door-to-door routing. Another configuration assumed that private cars were banned. In that case, the consumer surplus significantly decreased, AV services were not able to absorb the entire demand, and the shares of other modes increased. However, the externalities were significantly reduced. Finally, in an urban environment where on-demand AVs were added to the available modes, the social impact was negative for all economic agents, with heterogeneity apparent on the impacts of the different externalities. This would benefit some travelers but would also involve additional congestion. In that case, a stop-based routing seemed preferable (but still negative) to a door-to-door one. Further works discussing the introduction of AVs into an urban environment should focus on line-based options such as automated bus services.",
+		"container-title": "Transportation Research Record",
+		"DOI": "10.1177/03611981231186988",
+		"issue": "5",
+		"note": "ijpr",
+		"page": "13-30",
+		"title": "On-Demand Autonomous Vehicles in Berlin: A Cost–Benefit Analysis",
+		"volume": "2678",
+		"author": [
+			{
+				"family": "Carreyre",
+				"given": "Félix"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Coulombel",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Berrada",
+				"given": "Jaâfar"
+			},
+			{
+				"family": "Bouillaut",
+				"given": "Laurent"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/JIGY6ES9",
+		"type": "article-journal",
+		"abstract": "Parcel delivery volumes are increasing all over the world and come with an increasingly large footprint in emissions and energy consumption. We describe a replicable modelling pipeline for last-mile parcel deliveries in which all operators of a region are represented as cost minimization problems that are sensitive to spatial context, vehicle types, and cost structures. For the use case of the metropolitan region of Lyon, a future scenario for 2030 is faced with various policy interventions. The results suggest that 2024 emission levels can be maintained by implementing a purchase tax on internal combustion vehicles of more than 50% or a carbon tax of more than 750 EUR/tCO2eq. Full enforcement of electrification yields an emission reduction compared to 2024 of 80%. All proposed policy scenarios show lower per-parcel costs compared to 2024 due to scaling effects of increasing parcel demand and density.",
+		"container-title": "Transportation Research Part D: Transport and Environment",
+		"DOI": "10.1016/j.trd.2025.104893",
+		"journalAbbreviation": "Transportation Research Part D: Transport and Environment",
+		"note": "ijpr",
+		"page": "104893",
+		"title": "Decarbonization policies for last-mile parcels: A replicable open-data case study for Lyon",
+		"volume": "146",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Briand",
+				"given": "Yann"
+			},
+			{
+				"family": "Puchinger",
+				"given": "Jakob"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/NUTCBVHG",
+		"type": "article-journal",
+		"abstract": "With the advent of Autonomous Vehicles (AV) technology, extensive research around the design of on-demand mobility systems powered by such vehicles is performed. An important part of these studies consists in the evaluation of the economic impact of such systems for involved stakeholders. In this work, a cost–benefit analysis (CBA) is applied to the introduction of AV services in Paris-Saclay, an intercommunity, south of Paris, simulated through MATSim, an agent-based model capable of capturing complex travel behaviors and dynamic traffic interactions. AVs would be implemented as a feeder service, first- and last-mile service to public transit, allowing intermodal trips for travelers. The system is designed to target the challenges of public transport accessibility in periurban areas and high private car use, which the AV feeder service is designed to mitigate. To our knowledge, this study is one of the first CBA analyses of an intermodal AV system relying on an agent-based simulation. The introduction of AV in a periurban environment would generate more pressure on the road network (0.8% to 1.7% increase in VKT for all modes, and significant congestion around train stations) but would improve traveler utilities. The utility gains from the new AV users benefiting from a more comfortable mode offsets the longer travel times from private car users. A Stop-Based routing service generates less congestion than a Door-to-Door routing service, but the access/egress time counterbalances this gain. Finally, in a periurban environment where on-demand AV feeder service would be added to reduce the access and egress cost of public transit, the social impact would be nuanced for travelers (over 99% of gains captured by the 10% of most benefiting agents), but externality would increase. This would benefit some travelers but would also involve additional congestion. In that case, a Stop-Based routing on a constrained network (e.g., existing bus network) significantly improves economic viability and reduces infrastructure costs and would be less impacting than a Door-to-Door service.",
+		"container-title": "Sustainability",
+		"DOI": "10.3390/su17146282",
+		"issue": "14",
+		"note": "ijpr",
+		"page": "6282",
+		"title": "Beyond Traditional Public Transport: A Cost–Benefit Analysis of First and Last-Mile AV Solutions in Periurban Environment",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Carreyre",
+				"given": "Félix"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Coulombel",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Berrada",
+				"given": "Jaâfar"
+			},
+			{
+				"family": "Bouillaut",
+				"given": "Laurent"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/9GB33WU4",
+		"type": "article-journal",
+		"abstract": "Shared Mobility Services (SMS), e.g., demand-responsive transport or ride-sharing, can improve mobility in low-density areas, which are often poorly served by conventional Public Transport (PT). Such improvement is generally measured via basic performance indicators, such as waiting or travel time. However, such basic indicators do not account for the most important contribution that SMS can provide to territories, i.e., increasing the potential, for users, to reach surrounding opportunities, such as jobs, schools, businesses, etc. Such potential can be measured by isochrone-based accessibility indicators, which count the number of opportunities reachable in a limited time, and are thus easy for the public to understand. The potential impact of SMS on accessibility has been qualitatively discussed and implications on equity have been empirically studied. However, to date, there are no quantitative methods to compute isochrone-based indicators of the accessibility achieved via SMS. This work fills this gap by proposing a first method to compute isochrone accessibility of PT systems composed of conventional PT and SMS, acting as a feeder for access and egress trips to/from PT hubs. This method is grounded on spatial-temporal statistical analysis, performed via Kriging. It takes as input observed trips of SMS and summarizes them in a graph. On such a graph, isochrone accessibility indicators are computed. We apply the proposed method to a MATSim simulation study concerning demand-responsive transport integrated into PT, in the suburban area of Paris-Saclay.",
+		"container-title": "Transportation",
+		"DOI": "10.1007/s11116-025-10662-1",
+		"journalAbbreviation": "Transportation",
+		"note": "ijpr",
+		"title": "Quantifying the improvement of accessibility achieved via shared mobility on demand",
+		"author": [
+			{
+				"family": "Diepolder",
+				"given": "Severin"
+			},
+			{
+				"family": "Araldo",
+				"given": "Andrea"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Maiti",
+				"given": "Santa"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Antoniou",
+				"given": "Constantinos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/Y6DSMW2B",
+		"type": "article-journal",
+		"abstract": "Effective traffic policies are crucial for managing congestion and reducing emissions. Agent-based transportation models (ABMs) offer a detailed analysis of how these policies affect travel behaviour at a granular level. However, computational constraints limit the number of scenarios that can be tested with ABMs and therefore their ability to find optimal policy settings. In this proof-of-concept study, we propose a machine learning (ML)-based surrogate model to efficiently explore this vast solution space. By combining Graph Neural Networks (GNNs) with the attention mechanism from Transformers, the model predicts the effects of traffic policies on the road network at the link level. We implement our approach in a large-scale MATSim simulation of Paris, France, covering over 30,000 road segments and 10,000 simulations, applying a policy involving capacity reduction on main roads. The ML surrogate achieves an overall R2 of 0.91; on primary roads where the policy applies, it reaches an R2 of 0.98. This study shows that the combination of GNNs and Transformer architectures can effectively serve as a surrogate for complex agent-based transportation models with the potential to enable large-scale policy optimization, helping urban planners explore a broader range of interventions more efficiently.",
+		"container-title": "Transportation Research Part C: Emerging Technologies",
+		"DOI": "10.1016/j.trc.2025.105360",
+		"journalAbbreviation": "Transportation Research Part C: Emerging Technologies",
+		"note": "ijpr",
+		"page": "105360",
+		"title": "Machine learning surrogates for agent-based models in transportation policy analysis",
+		"volume": "180",
+		"author": [
+			{
+				"family": "Natterer",
+				"given": "Elena Salomé"
+			},
+			{
+				"family": "Rao",
+				"given": "Saini Rohan"
+			},
+			{
+				"family": "Tejada Lapuerta",
+				"given": "Alejandro"
+			},
+			{
+				"family": "Engelhardt",
+				"given": "Roman"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Bogenberger",
+				"given": "Klaus"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/R4NSIVQK",
+		"type": "article-journal",
+		"container-title": "Case Studies on Transport Policy",
+		"DOI": "10.1016/j.cstp.2025.101654",
+		"journalAbbreviation": "Case Studies on Transport Policy",
+		"note": "ijpr",
+		"page": "101654",
+		"title": "Modelling future of airport accessibility: synthetic population and discrete choice model approach to UAM and CCAM demand at Brussels airport",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Mehrabani",
+				"given": "Behzad Bamdad"
+			},
+			{
+				"family": "Henrion",
+				"given": "Vincent"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Ivanov",
+				"given": "Nikola"
+			},
+			{
+				"family": "Mirkovic",
+				"given": "Bojana"
+			},
+			{
+				"family": "Blasco",
+				"given": "Juan"
+			},
+			{
+				"family": "Bossaert",
+				"given": "Elke"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026"
+				]
+			]
+		}
+	}
+]

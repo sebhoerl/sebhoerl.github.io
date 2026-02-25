@@ -1,0 +1,2168 @@
+[
+	{
+		"id": "http://zotero.org/users/5068314/items/C5CKGW6X",
+		"type": "paper-conference",
+		"abstract": "An agent-based simulation approach is presented, which makes it possible to capture the dynamic interplay between a supply of autonomous vehicle fleets with distinct operational schemes and a population of artificial persons based on an established multiagent traffic simulation framework. The simulation is able to show how agents react to the new travel options and make consistent decisions based on a well-defined framework of utility scoring.",
+		"container-title": "Procedia Computer Science",
+		"DOI": "10.1016/j.procs.2017.05.418",
+		"event-title": "6th International Workshop on Agent-based Mobility, Traffic and Transportation Models, Methodologies and Applications (ABMTrans 2017)",
+		"note": "ipr",
+		"page": "899-904",
+		"publisher-place": "Madeira, Portugal",
+		"source": "ScienceDirect",
+		"title": "Agent-based simulation of autonomous taxi services with dynamic demand responses",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1877050917310943",
+		"volume": "109",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/KMTHSJJS",
+		"type": "paper-conference",
+		"container-title": "7th Symposium of the European Association for Research in Transportation (hEART 2017)",
+		"event-title": "7th Symposium of the European Association for Research in Transportation (hEART 2017)",
+		"note": "ipr",
+		"publisher-place": "Haifa, Israel",
+		"title": "Dynamic ride sharing implementation and analysis in MATSim",
+		"URL": "https://www.research-collection.ethz.ch/handle/20.500.11850/183727",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Biyu"
+			},
+			{
+				"family": "Liang",
+				"given": "Huang"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Ciari",
+				"given": "Francesco"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/WH5Z2EXK",
+		"type": "paper-conference",
+		"container-title": "7th Symposium of the European Association for Research in Transportation (hEART 2017)",
+		"event-title": "7th Symposium of the European Association for Research in Transportation (hEART 2017)",
+		"note": "ipr",
+		"publisher-place": "Haifa, Israel",
+		"title": "A methodology for observation-based accessibility",
+		"URL": "https://docs.google.com/presentation/d/1aD1i4vwrIc08O6YL1I5KjCTRoVqbnmyIrlOeBB8CXJY/edit?usp=sharing",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/WSQFCBYG",
+		"type": "paper-conference",
+		"abstract": "Since modern transport services are becoming more flexible, demand-responsive, and energy/cost efficient, there is a growing demand for large-scale microscopic simulation platforms in order to test sophisticated routing algorithms. Such platforms have to simulate in detail, not only the dynamically changing demand and supply of the relevant service, but also traffic flow and other relevant transport services. This paper presents the DVRP extension to the open-source MATSim simulator. The extension is designed to be highly general and customizable to simulate a wide range of dynamic rich vehicle routing problems. The extension allows plugging in of various algorithms that are responsible for continuous re-optimisation of routes in response to changes in the system. The DVRP extension has been used in many research and commercial projects dealing with simulation of electric and autonomous taxis, demand-responsive transport, personal rapid transport, free-floating car sharing and parking search.",
+		"container-title": "Highlights of Practical Applications of Cyber-Physical Multi-Agent Systems",
+		"DOI": "10.1007/978-3-319-60285-1_6",
+		"event-title": "15th International Conference on Practical applications of Agents and Multi-Agent Systems (PAAMS 2017)",
+		"ISBN": "978-3-319-60285-1",
+		"language": "en",
+		"note": "ipr",
+		"page": "69-79",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "Springer Link",
+		"title": "Towards a Testbed for Dynamic Vehicle Routing Algorithms",
+		"author": [
+			{
+				"family": "Maciejewski",
+				"given": "Michal"
+			},
+			{
+				"family": "Bischoff",
+				"given": "Joschka"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Nagel",
+				"given": "Kai"
+			}
+		],
+		"editor": [
+			{
+				"family": "Bajo",
+				"given": "Javier"
+			},
+			{
+				"family": "Vale",
+				"given": "Zita"
+			},
+			{
+				"family": "Hallenborg",
+				"given": "Kasper"
+			},
+			{
+				"family": "Rocha",
+				"given": "Ana Paula"
+			},
+			{
+				"family": "Mathieu",
+				"given": "Philippe"
+			},
+			{
+				"family": "Pawlewski",
+				"given": "Pawel"
+			},
+			{
+				"family": "Del Val",
+				"given": "Elena"
+			},
+			{
+				"family": "Novais",
+				"given": "Paulo"
+			},
+			{
+				"family": "Lopes",
+				"given": "Fernando"
+			},
+			{
+				"family": "Duque Méndez",
+				"given": "Nestor D."
+			},
+			{
+				"family": "Julián",
+				"given": "Vicente"
+			},
+			{
+				"family": "Holmgren",
+				"given": "Johan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/BVK36L49",
+		"type": "paper-conference",
+		"abstract": "The agent-based transport simulation framework MATSim allows for the simulation of dynamic transport scenarios with agents, that adaptively make travel choices. Regarding mode choice, a heavily randomized process is used to date, which allows for very unrealistic mode decisions in the short run to arrive at consistent mode shares after a large number of iterations. The authors show that implementing a discrete mode choice model may drastically increase the convergence speed of the simulation, but point out that considerable future research is necessary to make travel decisions consistent and to back the process with a strong theoretical foundation.",
+		"container-title": "Procedia Computer Science",
+		"DOI": "10.1016/j.procs.2018.04.087",
+		"event-title": "7th International Workshop on Agent-based Mobility, Traffic and Transportation Models, Methodologies and Applications (ABMTrans 2018)",
+		"note": "ipr",
+		"page": "900-907",
+		"publisher-place": "Porto, Portugal",
+		"source": "ScienceDirect",
+		"title": "A first look at bridging discrete choice modeling and agent-based microsimulation in MATSim",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1877050918304496",
+		"volume": "130",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Axhausen",
+				"given": "Kay W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/IXTELJL2",
+		"type": "paper-conference",
+		"container-title": "7th Symposium of the European Association for Research in Transportation (hEART 2018)",
+		"event-title": "7th Symposium of the European Association for Research in Transportation (hEART 2018)",
+		"note": "ipr",
+		"publisher-place": "Athens, Greece",
+		"title": "Sizing a fleet of automated vehicles: A demand-responsive case study for Zurich",
+		"URL": "https://slides.com/sebastianhorl/heart2018",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/HX6NHMNL",
+		"type": "paper-conference",
+		"abstract": "In an autonomous mobility-on-demand (AMoD) system, customers are transported by autonomously driving vehicles in an on-demand fashion. Although these AMoD systems will soon be introduced to cities, their quantitative analysis from a fleet operational and city planning viewpoint remains challenging due to the lack of dedicated analysis tools. In this paper, we introduce AMoDeus, an open-source software package for the accurate and quantitative analysis of autonomous mobility-on-demand systems. AMoDeus uses an agent-based transportation simulation framework to simulate arbitrarily configured AMoD systems with static or dynamic demand. It includes standard benchmark algorithms, fleet efficiency and service level analysis methods and a dedicated graphical viewer that allows in-depth insights into the system. Together with AMoDeus, we publish a typical simulation scenario based on taxi traces recorded in San Francisco. It can be used to test novel fleet control algorithms or as a basis to model more complex transportation research scenarios.",
+		"container-title": "21st International Conference on Intelligent Transportation Systems (ITSC 2018)",
+		"DOI": "10.1109/ITSC.2018.8569961",
+		"event-title": "21st International Conference on Intelligent Transportation Systems (ITSC 2018)",
+		"note": "ipr",
+		"page": "3639-3644",
+		"publisher-place": "Maui, USA",
+		"source": "IEEE Xplore",
+		"title": "AMoDeus, a Simulation-Based Testbed for Autonomous Mobility-on-Demand Systems",
+		"URL": "https://ieeexplore.ieee.org/document/8569961",
+		"author": [
+			{
+				"family": "Ruch",
+				"given": "Claudio"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Frazzoli",
+				"given": "Emilio"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/KHIJNBLU",
+		"type": "paper-conference",
+		"container-title": "98th Annual Meeting of the Transportation Research Board (TRB 2019)",
+		"event-title": "98th Annual Meeting of the Transportation Research Board (TRB 2019)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "How much parking space can carsharing save?",
+		"URL": "https://www.research-collection.ethz.ch/handle/20.500.11850/283791",
+		"author": [
+			{
+				"family": "Tchervenkov",
+				"given": "Christopher"
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Becker",
+				"given": "Henrik"
+			},
+			{
+				"family": "Axhausen",
+				"given": "K",
+				"suffix": "W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/SBFATR74",
+		"type": "paper-conference",
+		"container-title": "98th Annual Meeting of the Transportation Research Board (TRB 2019)",
+		"event-title": "98th Annual Meeting of the Transportation Research Board (TRB 2019)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "Pairing discrete mode choice models and agent-based transport simulation with MATSim",
+		"URL": "https://www.research-collection.ethz.ch/handle/20.500.11850/303667",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Axhausen",
+				"given": "K",
+				"suffix": "W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/TJU7NRCQ",
+		"type": "paper-conference",
+		"abstract": "A simulation framework is presented that equilibrates a given automated taxi fleet with (a) consistent prices to provide the service and (b) customer behaviour that reacts to costs and level of service alike. In a first attempt, a hypothetical AMoD service within the highway ring of Paris is considered. The “dynamic demand” case yields a demand of around 1.2M trips per day for such a service at the optimal fleet size of 25k vehicles. This number is considerably lower than 2.3M trips that potentially could be served in a “static maximum demand” case which has often been used as a basis for previous fleet sizing studies. While the authors acknowledge a multitude of assumptions that constitute the present model, clear pathways to its improvement, methodologically and data-wise, are provided.",
+		"container-title": "IEEE Intelligent Vehicles Symposium (IV 2019)",
+		"DOI": "10.1109/IVS.2019.8814051",
+		"event-title": "IEEE Intelligent Vehicles Symposium (IV 2019)",
+		"ISSN": "2642-7214",
+		"license": "ipr",
+		"page": "260-266",
+		"publisher-place": "Paris, France",
+		"source": "IEEE Xplore",
+		"title": "Dynamic demand estimation for an AMoD system in Paris",
+		"URL": "https://ieeexplore.ieee.org/document/8814051",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Axhausen",
+				"given": "Kay W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/4MVTYXDS",
+		"type": "paper-conference",
+		"container-title": "99th Annual Meeting of the Transportation Research Board (TRB 2020)",
+		"event-title": "99th Annual Meeting of the Transportation Research Board (TRB 2020)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "Relaxation-discretization algorithm for spatially constrained secondary location assignment",
+		"URL": "https://www.research-collection.ethz.ch/handle/20.500.11850/378016",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Axhausen",
+				"given": "K",
+				"suffix": "W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/GW7XRPAA",
+		"type": "paper-conference",
+		"container-title": "99th Annual Meeting of the Transportation Research Board (TRB 2020)",
+		"event-title": "99th Annual Meeting of the Transportation Research Board (TRB 2020)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "Fleet sizing for pooled automated vehicle fleets",
+		"URL": "https://www.research-collection.ethz.ch/handle/20.500.11850/357297",
+		"author": [
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Axhausen",
+				"given": "K",
+				"suffix": "W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/YHMZPCSQ",
+		"type": "paper-conference",
+		"abstract": "Urban Air Mobility (UAM) is a novel concept based on the use of Vertical Takeoff and Landing vehicles for aerial transportation of people in urban settings. It can, potentially, disrupt the way people move today. The factors and impact of demand drivers for UAM, are, however, largely unknown. Therefore, the goal of this study is to present a methodology to investigate demand for UAM using an agent-based approach.The methodology presented is used successfully to investigate UAM demand for a case study of Zurich, Switzerland, in showing demand sensitivity to various technological and operational parameters. This should provide a backbone for future research in other urban areas around the world and operational optimization of the UAM services.",
+		"container-title": "IEEE Intelligent Transportation Systems Conference (ITSC 2019)",
+		"DOI": "10.1109/ITSC.2019.8916972",
+		"event-title": "IEEE Intelligent Transportation Systems Conference (ITSC 2019)",
+		"note": "ipr",
+		"page": "906-913",
+		"publisher-place": "Auckland, New Zealand",
+		"source": "IEEE Xplore",
+		"title": "The Prospects of on-demand Urban Air Mobility in Zurich, Switzerland",
+		"URL": "https://ieeexplore.ieee.org/document/8916972",
+		"author": [
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Rothfeld",
+				"given": "Raoul L."
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/WH3687XH",
+		"type": "paper-conference",
+		"container-title": "9th Symposium of the European Association for Research in Transportation (hEART 2020)",
+		"event-title": "9th Symposium of the European Association for Research in Transportation (hEART 2020)",
+		"note": "ipr",
+		"publisher-place": "Lyon, France",
+		"title": "A generalizable pipeline for agent-based transport models in France",
+		"URL": "https://www.research-collection.ethz.ch/handle/20.500.11850/458745",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Tchervenkov",
+				"given": "Christopher"
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/Y8UZDJHP",
+		"type": "paper-conference",
+		"abstract": "Agent-based transport simulation models are a particularly useful tool to analyze demand-oriented transport policies and new mobility services, which have both gained significant attention lately. Since travel diaries, a traditional source to create the transport demand in agent-based transport models, are often hard to procure and not policy-sensitive, alternative approaches to creating travel demand representations for simulation scenarios are sought. In this study, a particularly efficient approach based on Big Data and a new, aspatial activity-based demand model with comparatively low input data requirements is established. Home, work, and education locations are informed based on mobile-phone-based origin-destination matrices. Other activity locations are modeled within the scope of the coevolutionary algorithm of the agent-based transport model, which is also responsible for finding suitable travel options of the modeled individuals. As a result, a comparatively lightweight process chain to create an agent-based transport simulation scenario is established, which is transferable to other regions. A basic quality evaluation of the created tool chain is carried out against a well-validated transport simulation model of the same region.",
+		"container-title": "Transportation Research Procedia",
+		"DOI": "10.1016/j.trpro.2021.01.073",
+		"event-title": "23rd EURO Working Group on Transportation Meeting (EWGT 2020)",
+		"note": "ipr",
+		"page": "613-620",
+		"publisher-place": "Paphos, Cyprus",
+		"source": "ScienceDirect",
+		"title": "An efficient approach to create agent-based transport simulation scenarios based on ubiquitous Big Data and a new, aspatial activity-scheduling model",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2352146521001198",
+		"volume": "52",
+		"author": [
+			{
+				"family": "Ziemke",
+				"given": "Dominik"
+			},
+			{
+				"family": "Charlton",
+				"given": "Billy"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Nagel",
+				"given": "Kai"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/W7VJ7LKJ",
+		"type": "paper-conference",
+		"container-title": "100th Annual Meeting of the Transportation Research Board (TRB 2021)",
+		"event-title": "100th Annual Meeting of the Transportation Research Board (TRB 2021)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "Synthetic population for the state of California based on open-data: examples of San Francisco Bay area and San Diego County",
+		"URL": "https://www.researchgate.net/publication/349177186_Synthetic_population_for_the_state_of_California_based_on_open_data_Examples_of_the_San_Francisco_Bay_Area_and_San_Diego_County",
+		"author": [
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Axhausen",
+				"given": "K",
+				"suffix": "W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/X53EHDUW",
+		"type": "paper-conference",
+		"container-title": "100th Annual Meeting of the Transportation Research Board (TRB 2021)",
+		"event-title": "100th Annual Meeting of the Transportation Research Board (TRB 2021)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "System Level Policies For Pooled Autonomous Vehicles",
+		"URL": "https://www.research-collection.ethz.ch/handle/20.500.11850/468598",
+		"author": [
+			{
+				"family": "Räth",
+				"given": "Yves M."
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Axhausen",
+				"given": "K",
+				"suffix": "W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/Z2BMJPRD",
+		"type": "paper-conference",
+		"container-title": "100th Annual Meeting of the Transportation Research Board (TRB 2021)",
+		"event-title": "100th Annual Meeting of the Transportation Research Board (TRB 2021)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "Forecasting a Future with Automated Vehicles In Switzerland: Exploring the Urban-Rural Divide and System Effects",
+		"URL": "https://www.research-collection.ethz.ch/handle/20.500.11850/429755",
+		"author": [
+			{
+				"family": "Livingston",
+				"given": "C. V."
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Bruns",
+				"given": "Frank"
+			},
+			{
+				"family": "Fischer",
+				"given": "R."
+			},
+			{
+				"family": "Axhausen",
+				"given": "K",
+				"suffix": "W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/CWUV3555",
+		"type": "paper-conference",
+		"abstract": "Agent-based transport simulations rely on realistic representation of agents’ movements in the transport system, but also on the simulation of choice making processes that resemble reality well. The MATSim framework uses the scoring-based co-evolutionary algorithm to achieve this, based on the principle of utility maximization. Discrete choice models are another common tool in transport planning which rely on the same principle. Through a toy example, the paper at hand shows that the direct use of discrete choice parameters in MATSim is not a technically sound approach, but that a consistent integration can be achieved by generating deterministic pseudo-errors based on cryptographic hash functions. Further caveats with integrating choice parameters in MATSim scoring are discussed.",
+		"container-title": "Procedia Computer Science",
+		"DOI": "10.1016/j.procs.2021.03.088",
+		"event-title": "9th International Workshop on Agent-based Mobility, Traffic and Transportation Models, (ABMTRANS 2021)",
+		"note": "ipr",
+		"page": "704-711",
+		"publisher-place": "Warsaw, Poland",
+		"source": "ScienceDirect",
+		"title": "Integrating discrete choice models with MATSim scoring",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1877050921007262",
+		"volume": "184",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/2J2CDNPQ",
+		"type": "paper-conference",
+		"abstract": "This paper introduces the eqasim framework with the aim to provide a consistent pipeline from raw data to a final transport simulation. It therefore lays the foundation to achieve fully reproducible agent-based transport simulations. While the pathway from raw data to a generic synthetic travel demand was covered previously for specific use cases, here the general methodology is summarized. Furthermore, the tools and methods for combining MATSim simulations with flexibly definable discrete choice models is described, which is the core of the existing simulation implementations of eqasim for île-de-France, Switzerland, Sao Paulo and California.",
+		"container-title": "Procedia Computer Science",
+		"DOI": "10.1016/j.procs.2021.03.089",
+		"event-title": "10th International Workshop on Agent-based Mobility, Traffic and Transportation Models, (ABMTRANS 2021)",
+		"note": "ipr",
+		"page": "712-719",
+		"publisher-place": "Warsaw, Poland",
+		"source": "ScienceDirect",
+		"title": "Introducing the eqasim pipeline: From raw data to agent-based transport simulation",
+		"title-short": "Introducing the eqasim pipeline",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1877050921007274",
+		"volume": "184",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/I7TUNZDF",
+		"type": "paper-conference",
+		"abstract": "This paper proposes a generic shared mobility simulator based on an agent-based model - MATSim. The implemented module can simulate both human and engine powered vehicles, docked/station and dockless/free-floating services, and multiple operators. The module is employed in a case study based in the San Francisco Bay Area that focuses on potential benefits of docked bike-sharing services to serve as a first/last mile solution for public transit. The initial results indicate that the current BayWheels docked bike-sharing service can potentially reduce travel time for 1049 765 trips through intermodality compared to current transit travel times. By focusing our analysis on these trips that could benefit from bike-sharing as a first/last mile solution we present the quality of service indicators for different levels of adoption and two fleet sizes.",
+		"container-title": "IEEE International Intelligent Transportation Systems Conference (ITSC 2021)",
+		"DOI": "10.1109/ITSC48978.2021.9564851",
+		"event-title": "IEEE International Intelligent Transportation Systems Conference (ITSC 2021)",
+		"note": "ipr",
+		"page": "3278-3283",
+		"publisher-place": "Indianapolis, USA",
+		"source": "IEEE Xplore",
+		"title": "Simulation of intermodal shared mobility in the San Francisco Bay Area using MATSim",
+		"URL": "https://ieeexplore.ieee.org/document/9564851",
+		"author": [
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/WV9XBQHX",
+		"type": "paper-conference",
+		"abstract": "The use of real-time data in logistics is an important topic. Every day, logistics produces a large quantity of data, which is mainly produced by monitoring and controlling the enormous flow of goods. The last-mile delivery market is expanding at a rapid pace through large- and small-scale consumer platforms, but the economic drivers to create more sustainable systems are weak. Therefore, cities are facing the potential downside of this “Uberisation” of logistics. Urban and city planners, city administrators, and business stakeholders need a new adaptive approach such as the usage of digital twinning solutions of urban logistics. This to help in the interpretation of the dynamics of logistics networks in the city and the consequences of the introduction of particular innovations. The challenge is to predict the most likely developments for the coming years and propose feasible policies on that basis. This research work aims to advance research in the field of digital twins applied to city logistics, by proposing a framework enabling new applications for designing and assessing targeted urban logistics policies and to develop a range of logistics solutions for shared, connected, and low-emission logistics operations, empowered by an adaptive modeling approach.",
+		"container-title": "6th International Conference on Smart and Sustainable Technologies (SpliTech 2021)",
+		"DOI": "10.23919/SpliTech52315.2021.9566324",
+		"event-title": "6th International Conference on Smart and Sustainable Technologies (SpliTech 2021)",
+		"note": "ipr",
+		"page": "1-6",
+		"publisher-place": "Split, Croatia",
+		"source": "IEEE Xplore",
+		"title": "Towards a Digital Twin Framework for Adaptive Last Mile City Logistics",
+		"URL": "https://ieeexplore.ieee.org/document/9566324",
+		"author": [
+			{
+				"family": "Belfadel",
+				"given": "Abdelhadi"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Tapia",
+				"given": "Rodrigo Javier"
+			},
+			{
+				"family": "Puchinger",
+				"given": "Jakob"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/NL6EWYJ5",
+		"type": "paper-conference",
+		"container-title": "101th Annual Meeting of the Transportation Research Board (TRB 2022)",
+		"event-title": "101th Annual Meeting of the Transportation Research Board (TRB 2022)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "Traffic Uncertainty in On-Demand High-Capacity Ride-Pooling",
+		"URL": "https://hal.archives-ouvertes.fr/hal-03405574/document",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Zwick",
+				"given": "Felix"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/K27V9YTX",
+		"type": "paper-conference",
+		"container-title": "101th Annual Meeting of the Transportation Research Board (TRB 2022)",
+		"event-title": "101th Annual Meeting of the Transportation Research Board (TRB 2022)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "Reconstructing activity locations from zone-based trip data for discrete choice modeling",
+		"URL": "https://www.researchgate.net/publication/353558893_Reconstructing_activity_locations_from_zone-based_trip_data_for_discrete_choice_modeling?_sg%5B0%5D=4Cshmassl9oPQcgRn5DdzE1ynSCYizxVQedN-A7lWSOzOlTesbNk_Ao2wi4iOsPtO4X0JiOOeTdsi7nBR4TqwfjaTODjUTdrzfMU_FkL.OEBUxkm4yxEI8rB5ozNDwLbPX8cK8wOqCredajTU55oyBHqmWyHSVI37nXnjWJ-POjjtPS0sjZA8XIqVrQj8Yw&_sg%5B1%5D=nakDcIE-EiHHgl9Z4MiGLmK0y_Nwb9bTCMEYnguTCFwSYdBzy6dsdpGB5t_Nn9x1wo1vIpH5_ueye8GOGPzRDQvH-Tk5x3cSLCH3_2C7.EEq6xAv_7tjeWHXLkEGVfRLACqRNPUxcG_OQFcfKW5lEtDN6SFS5RvI2PhZCZMgGEQgRTKxVj6u486DQVeRkgg",
+		"author": [
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/UC3UFNSA",
+		"type": "paper-conference",
+		"abstract": "In this article, we present our adaptation of the Ruin-and-Recreate (R&R) algorithm to solve the electrical vehicle routing problem with time windows and multiple trips. We implement this adaptation in JSprit, an open-source vehicle routing problem solver. We implement the framework for a case study of Lyon, France. We assess the efficiency impact of adding charging constraints to a simulation of a fleet of autonomous delivery robots.",
+		"container-title": "Procedia Computer Science",
+		"DOI": "10.1016/j.procs.2022.03.039",
+		"event-title": "13th International Conference on Ambient Systems, Networks and Technologies (ANT 2022)",
+		"note": "ipr",
+		"page": "289-295",
+		"publisher-place": "Porto, Portugal",
+		"source": "ScienceDirect",
+		"title": "Extending JSprit to solve electric vehicle routing problems with recharging",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1877050922004525",
+		"volume": "201",
+		"author": [
+			{
+				"family": "Mahmoud",
+				"given": "Ayman"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Puchinger",
+				"given": "Jakob"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/34LIFMYG",
+		"type": "paper-conference",
+		"abstract": "In this paper, we present a software architecture that extends the MATSim mobility simulation framework by providing an external rebalancing server, which offers a set of rebalancing algorithms. This allows to implement complex rebalancing algorithms with minimal changes introduced into MATSim’s code base. We are specifically interested in the potential of using algorithms based on reinforcement learning, we present and implement in our architecture a simple Q-learning rebalancing algorithm. Our initial results show the potential of this approach. Although they are not better than existing rebalancing algorithm in MATSim, this approach enables more developments in this area and the implementation of other more complex algorithms for mobility on-demand operation in MATSim.",
+		"collection-title": "The 13th International Conference on Ambient Systems, Networks and Technologies (ANT 2022)",
+		"container-title": "Procedia Computer Science",
+		"DOI": "10.1016/j.procs.2022.03.020",
+		"event-title": "The 13th International Conference on Ambient Systems, Networks and Technologies (ANT 2022)",
+		"note": "ipr",
+		"page": "134-141",
+		"publisher-place": "Porto, Portugal",
+		"source": "ScienceDirect",
+		"title": "Implementing reinforcement learning for on-demand vehicle rebalancing in MATSim",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S187705092200432X",
+		"volume": "201",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Puchinger",
+				"given": "Jakob"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/L9L6KZWZ",
+		"type": "paper-conference",
+		"abstract": "Design is increasingly influenced by digitalisation yet differs largely across domains. We present synergies between the works of UX designers and data scientists. We can utilise personas to represent users and their behaviours, or synthetic populations to represent agent groups. Despite sharing characteristics, their synergies have not been explored so far. We propose a workflow and test it in the urban mobility context to link a synthetic population of Paris with a set of contextual personas. This builds the basis for an integrated approach for designing urban mobility across fields.",
+		"container-title": "Proceedings of the Design Society",
+		"DOI": "10.1017/pds.2022.182",
+		"event-title": "International Design Conference (DESIGN 2022)",
+		"language": "en",
+		"note": "ipr",
+		"page": "1795-1804",
+		"publisher-place": "Seattle, USA",
+		"source": "Cambridge University Press",
+		"title": "Matching Synthetic Populations with Personas: A Test Application for Urban Mobility",
+		"title-short": "Matching Synthetic Populations with Personas",
+		"URL": "https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/matching-synthetic-populations-with-personas-a-test-application-for-urban-mobility/7AC4ABB9713F354FCC7920DD2DC0E1A0",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Vallet",
+				"given": "F."
+			},
+			{
+				"family": "Hörl",
+				"given": "S."
+			},
+			{
+				"family": "Gall",
+				"given": "T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/FT8LB8S2",
+		"type": "paper-conference",
+		"abstract": "The paper describes an open and fully replicable pipeline to assess the performance of parcel delivery systems. Starting with publicly available data in France, a range of open source tools is used to create a synthetic population of the region from which its parcel delivery demand is derived. Using JSprit for solving the resulting Vehicle Routing Problem and simulating vehicle movements, a test case for automated delivery robots in the Confluence neighbourhood of Lyon is set up and analysed.",
+		"container-title": "Transportation Research Procedia",
+		"DOI": "10.1016/j.trpro.2023.11.644",
+		"event-title": "Transport Research Arena (TRA 2022)",
+		"note": "ipr",
+		"page": "1707-1714",
+		"publisher-place": "Lisboa, Portugal",
+		"source": "ScienceDirect",
+		"title": "From synthetic population to parcel demand: A modeling pipeline and case study for last-mile deliveries in Lyon",
+		"title-short": "From synthetic population to parcel demand",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2352146523009420",
+		"volume": "72",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Puchinger",
+				"given": "Jakob"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/UFHVTLJ4",
+		"type": "paper-conference",
+		"container-title": "102nd Annual Meeting of the Transportation Research Board (TRB 2023)",
+		"event-title": "102nd Annual Meeting of the Transportation Research Board (TRB 2023)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "Towards reproducible simulations of the Grand Paris Express and on-demand feeder services",
+		"URL": "https://hal.science/hal-03788331",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Puchinger",
+				"given": "Jakob"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/JGXXP3H7",
+		"type": "paper-conference",
+		"container-title": "102nd Annual Meeting of the Transportation Research Board (TRB 2023)",
+		"event-title": "102nd Annual Meeting of the Transportation Research Board (TRB 2023)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "On-demand Autonomous Vehicles in Berlin: a Cost Benefit Analysis",
+		"URL": "https://hal.science/hal-04240526v1",
+		"author": [
+			{
+				"family": "Carreyre",
+				"given": "Felix"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Coulombel",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Berrada",
+				"given": "Jafaar"
+			},
+			{
+				"family": "Bouillaut",
+				"given": "L."
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/DKB2VUPV",
+		"type": "paper-conference",
+		"abstract": "In this paper, we propose a generic method based on publicly available data to design a master plan optimizing the number of coworking spaces to deploy in a given area, as well as their placements across the territory, with the goal of reducing the GHC emissions linked to car commuting. As a first step, we collect and preprocess population data to convert them into an exploitable form. Then we design a decision model that describes when a person would choose to work in a shared office, and which transport mode they would use. We finally perform an optimization to maximize the gains in terms of traveled distance using a linear solver and heuristic methods, and compare their respective effectiveness. The results are encouraging, since they show that using an optimized network computed with our method, we could reduce the total car commuting distance by 23%, which represents a reduction in carbon emissions of hundreds of tons per day at the scale of the studied use case region around Toulouse.",
+		"container-title": "Procedia Computer Science",
+		"DOI": "10.1016/j.procs.2023.03.041",
+		"event-title": "14th International Conference on Ambient Systems, Networks and Technologies Networks (ANT 2023)",
+		"note": "ipr",
+		"page": "315-322",
+		"publisher-place": "Leuven, Belgium",
+		"source": "ScienceDirect",
+		"title": "Emission-reducing deployment of shared office networks",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1877050923005768",
+		"volume": "220",
+		"author": [
+			{
+				"family": "Mastio",
+				"given": "Matthieu"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Loubière",
+				"given": "Vincent"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/2GPD4WPV",
+		"type": "paper-conference",
+		"abstract": "Peer-to-peer car sharing is a service model in which car owners let others use their vehicle while it is not in use by themselves. To simulate such a service in the agent-based transport simulation framework MATSim, a novel synchronization concept is proposed that considers limited resources in the decision-making of the agents. The concept is introduced in detail and demonstrated for peer-to-peer car sharing on a conceptual use case and a large-scale simulation for Berlin. The concept is generalizable to other constrained resources, such as parking or micromobility.",
+		"container-title": "Procedia Computer Science",
+		"DOI": "10.1016/j.procs.2023.03.091",
+		"event-title": "12th International Workshop on Agent-based Mobility, Traffic and Transportation Models, Methodologies and Applications (ABMTRANS 2023)",
+		"note": "ipr",
+		"page": "698-703",
+		"publisher-place": "Leuven, Belgium",
+		"source": "ScienceDirect",
+		"title": "Resource-constrained replanning in MATSim applied to the simulation of peer-to-peer car sharing services",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1877050923006269",
+		"volume": "220",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Sobieraj",
+				"given": "Jeremy"
+			},
+			{
+				"family": "Axer",
+				"given": "Steffen"
+			},
+			{
+				"family": "Rewald",
+				"given": "Hannes"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/KF5BYEFC",
+		"type": "paper-conference",
+		"abstract": "The potential of Mobility-on-Demand systems has frequently been studied in the literature, often in combination with dynamic demand models that respond to the obtained service levels. However, the endogenous demand usually does not respond to generated rejection rates. The paper discusses potential ways of integrating this dimension into a behavioral demand model. A linear control-based approach is proposed that penalizes choices for the on-demand service until a maximum desired rejection rate is obtained. The practical value of the method is demonstrated on a large-scale agent-based transport simulation and pathways for future improvements are provided.",
+		"container-title": "8th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS 2023)",
+		"DOI": "10.1109/MT-ITS56129.2023.10241741",
+		"event-title": "8th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS 2023)",
+		"note": "ipr",
+		"page": "1-6",
+		"publisher-place": "Nice, France",
+		"source": "IEEE Xplore",
+		"title": "Control-based integration of rejection rates into endogenous demand ride-pooling simulations",
+		"URL": "https://ieeexplore.ieee.org/document/10241741",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Puchinger",
+				"given": "Jakob"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/RWIZE4EH",
+		"type": "paper-conference",
+		"container-title": "9th International Symposium on Transportation Data & Modelling (ISTDM 2023)",
+		"event-title": "9th International Symposium on Transportation Data & Modelling (ISTDM 2023)",
+		"note": "ipr",
+		"publisher-place": "Ispra, Italy",
+		"title": "Towards replicable mode choice models for transport simulations in France",
+		"URL": "https://slides.com/sebastianhorl/istdm23",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/UE2YKJD6",
+		"type": "paper-conference",
+		"container-title": "11th Symposium of the European Association for Research in Transportation (hEART 2023)",
+		"event-title": "11th Symposium of the European Association for Research in Transportation (hEART 2023)",
+		"note": "ipr",
+		"publisher-place": "Zürich, Switzerland",
+		"title": "On the Computation of accessibility provided by shared mobility",
+		"URL": "https://hal.science/hal-04154712v2",
+		"author": [
+			{
+				"family": "Diepolder",
+				"given": "Severin"
+			},
+			{
+				"family": "Araldo",
+				"given": "Andrea"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Maiti",
+				"given": "S."
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Antoniou",
+				"given": "C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/UBTB26MU",
+		"type": "paper-conference",
+		"container-title": "11th Symposium of the European Association for Research in Transportation (hEART 2023)",
+		"event-title": "11th Symposium of the European Association for Research in Transportation (hEART 2023)",
+		"note": "ipr",
+		"publisher-place": "Zürich, Switzerland",
+		"title": "Use of Origin-Destination data for calibration and spatialization of synthetic travel demand",
+		"URL": "https://hal.science/hal-04201484",
+		"author": [
+			{
+				"family": "Matet",
+				"given": "Benoit"
+			},
+			{
+				"family": "Côme",
+				"given": "Etienne"
+			},
+			{
+				"family": "Furno",
+				"given": "Angelo"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Oukhellou",
+				"given": "Latifa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/LQFZ7SGB",
+		"type": "paper-conference",
+		"container-title": "11th Symposium of the European Association for Research in Transportation (hEART 2023)",
+		"event-title": "11th Symposium of the European Association for Research in Transportation (hEART 2023)",
+		"note": "ipr",
+		"publisher-place": "Zürich, Switzerland",
+		"title": "Modeling the ecological and economic footprint of last-mile parcel deliveries using open data: A case study for Lyon",
+		"URL": "https://hal-iogs.archives-ouvertes.fr/IRT-SYSTEMX/hal-04102894v2",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Puchinger",
+				"given": "Jakob"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/AP4E6X4J",
+		"type": "paper-conference",
+		"container-title": "103rd Annual Meeting of the Transportation Research Board (TRB 2024)",
+		"event-title": "103rd Annual Meeting of the Transportation Research Board (TRB 2024)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "On-demand Autonomous Vehicles in a periurban territory: a Cost Benefit Analysis",
+		"URL": "https://hal.science/hal-04359206",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Carreyre",
+				"given": "Felix"
+			},
+			{
+				"family": "Coulombel",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Berrada",
+				"given": "Jafaar"
+			},
+			{
+				"family": "Bouillaut",
+				"given": "L."
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/JXC22LN3",
+		"type": "paper-conference",
+		"container-title": "103rd Annual Meeting of the Transportation Research Board (TRB 2024)",
+		"event-title": "103rd Annual Meeting of the Transportation Research Board (TRB 2024)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "Assessing the impact of monetary incentives for walking using agent-based mobility simulations and discrete mode choice models",
+		"URL": "https://hal.science/hal-04286844",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Reyes-Madrigal",
+				"given": "Mariana"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/AI8WQ2N8",
+		"type": "paper-conference",
+		"abstract": "A common task in today’s transport simulation research is the assessment of on-demand mobility services on a large scale. A framework that is widely used for such tasks is MATSim, which has been applied frequently to study highly dynamic on-demand mobility services. To date, its efficient fleet management implementation does not yet support on-demand requests that are pre-booked in advance. This type of service, however, is seeing increased interest in the context of long-distance, rural, and inclusive mobility. Therefore, the present paper explores how prebooking can be integrated into MATSim and a use case for the city of Melun in France is presented.",
+		"container-title": "Procedia Computer Science",
+		"DOI": "10.1016/j.procs.2024.06.089",
+		"event-title": "15th International Conference on Ambient Systems, Networks and Technologies Networks (ANT 2024)",
+		"note": "ipr",
+		"page": "763-770",
+		"publisher-place": "Hasselt, Belgium",
+		"source": "ScienceDirect",
+		"title": "Evaluating prebooked on-demand mobility services using MATSim",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1877050924013255",
+		"volume": "238",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Ludwig",
+				"given": "Oliver"
+			},
+			{
+				"family": "Rewald",
+				"given": "Hannes"
+			},
+			{
+				"family": "Axer",
+				"given": "Steffen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/LN6MNP3F",
+		"type": "paper-conference",
+		"container-title": "12th Symposium of the European Association for Research in Transportation (hEART 2024)",
+		"event-title": "12th Symposium of the European Association for Research in Transportation (hEART 2024)",
+		"note": "ipr",
+		"publisher-place": "Espoo, Finland",
+		"title": "Comparative assessment of fairness in on-demand fleet management algorithms",
+		"URL": "https://hal.science/hal-04551002",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/FHFTW9U7",
+		"type": "paper-conference",
+		"container-title": "12th Symposium of the European Association for Research in Transportation (hEART 2024)",
+		"event-title": "12th Symposium of the European Association for Research in Transportation (hEART 2024)",
+		"note": "ipr",
+		"publisher-place": "Espoo, Finland",
+		"title": "Towards an integrated approach for the automatic design of feeder bus lines using agent-based simulation and combinatorial optimization",
+		"URL": "https://hal.science/hal-04551009v1",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Declercq",
+				"given": "Sylvain"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/9ENY7XKU",
+		"type": "paper-conference",
+		"abstract": "Self-driving cars and their deployment as a transport service have been studied extensively in the Cooperative, Connected, and Automated Mobility (CCAM) concept. Increasingly, more specific use cases and deployment scenarios are studied in the literature. One of those concepts are CCAM Airport Access Services (CCAMAAS) that may facilitate and robustify first and last mile access to airports by the use of automated shuttles. Our goal is to gain insights into the operational benefits and challenges of such services, as well as on their economic and ecological impact. The paper presents a first step towards a novel simulation-based assessment framework for such services, by introducing a first use case example of a comparative analysis between classic taxi services and CCAMAAS for the Paris CDG and ORY airports.",
+		"collection-title": "VSI: TRPRO_EWGT 2024",
+		"container-title": "Transportation Research Procedia",
+		"DOI": "10.1016/j.trpro.2025.04.061",
+		"event-title": "26th Euro Working Group on Transportation Meeting (EWGT 2024)",
+		"note": "ipr",
+		"page": "483-490",
+		"publisher-place": "Lund, Sweden",
+		"source": "ScienceDirect",
+		"title": "Towards simulation-based assessment of CCAM Airport Access Services",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2352146525003084",
+		"volume": "86",
+		"author": [
+			{
+				"family": "Declercq",
+				"given": "Sylvain"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/A2JYMTRQ",
+		"type": "paper-conference",
+		"container-title": "104th Annual Meeting of the Transportation Research Board (TRB 2025)",
+		"event-title": "104th Annual Meeting of the Transportation Research Board (TRB 2025)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "A method for efficiently assessing the impact of local mobility services in large-scale agent-based simulations",
+		"URL": "https://hal.science/hal-04719135v1",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/HVL6PFWE",
+		"type": "paper-conference",
+		"container-title": "12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)",
+		"event-title": "12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)",
+		"note": "ipr",
+		"publisher-place": "Okinawa, Japan",
+		"title": "Analysis and mitigation of discriminatory behaviour in fleet management algorithms",
+		"URL": "https://hal.science/hal-04889925v1",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/EI9Z7SRE",
+		"type": "paper-conference",
+		"container-title": "12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)",
+		"event-title": "12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)",
+		"note": "ipr",
+		"publisher-place": "Okinawa, Japan",
+		"title": "Machine Learning Surrogates for Optimizing Transportation Policies with Agent-Based Models",
+		"URL": "https://hal.science/hal-04892998v1",
+		"author": [
+			{
+				"family": "Natterer",
+				"given": "Elena"
+			},
+			{
+				"family": "Engelhardt",
+				"given": "Roman"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Bogenberger",
+				"given": "Klaus"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/BA4GXMTJ",
+		"type": "paper-conference",
+		"container-title": "International Conference on Advanced Systems in Public Transport 2025 (CASPT 2025)",
+		"event-title": "International Conference on Advanced Systems in Public Transport 2025 (CASPT 2025)",
+		"note": "ipr",
+		"publisher-place": "Kyoto, Japan",
+		"title": "A decision-support tool for inclusive cooperative connected automated mobility solutions: From simulation research to operational implications",
+		"URL": "https://hal.science/hal-05000000",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Briand",
+				"given": "Yann"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/QGLHEFGW",
+		"type": "paper-conference",
+		"container-title": "13th Symposium of the European Association for Research in Transportation (hEART 2025)",
+		"event-title": "13th Symposium of the European Association for Research in Transportation (hEART 2025)",
+		"note": "ipr",
+		"publisher-place": "Munich, Germany",
+		"title": "Data-driven analysis of urban logistics policies based on vehicle traces in the Copenhagen capital region",
+		"URL": "https://hal.science/hal-05018108",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Benki",
+				"given": "Aalae"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/XKY5UBSU",
+		"type": "paper-conference",
+		"container-title": "13th Symposium of the European Association for Research in Transportation (hEART 2025)",
+		"event-title": "13th Symposium of the European Association for Research in Transportation (hEART 2025)",
+		"note": "ipr",
+		"publisher-place": "Munich, Germany",
+		"title": "Simulating on-demand person and food transport with intra-day vehicle reconfiguration in Paris",
+		"URL": "https://hal.science/hal-05020825v1",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Ludwig",
+				"given": "Oliver"
+			},
+			{
+				"family": "Axer",
+				"given": "Steffen"
+			},
+			{
+				"family": "Rewald",
+				"given": "Hannes"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/HQ29A3CS",
+		"type": "paper-conference",
+		"container-title": "Lecture Notes in Computer Science",
+		"DOI": "https://doi.org/10.1007/978-3-032-07638-0_15",
+		"event-title": "23rd International Conference on Practical applications of Agents and Multi-Agent Systems (PAAMS 2025)",
+		"note": "ipr",
+		"publisher-place": "Lille, France",
+		"title": "Towards a replicable synthetic population and agent-based transport model for Bavaria",
+		"volume": "16031",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Burianne",
+				"given": "Arthur"
+			},
+			{
+				"family": "Natterer",
+				"given": "Elena"
+			},
+			{
+				"family": "Engelhardt",
+				"given": "Roman"
+			},
+			{
+				"family": "Müller",
+				"given": "Johannes"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/CJ9N7FRG",
+		"type": "paper-conference",
+		"container-title": "International Transportation Economics Association (ITEA) 2025 Annual School and Conference",
+		"event-title": "International Transportation Economics Association (ITEA) 2025 Annual School and Conference",
+		"note": "ipr",
+		"publisher-place": "Evanston, USA",
+		"title": "MobilityCoins - Towards an Agent-Based Approach to Simulating Tradable Mobility Credits",
+		"URL": "https://hal.science/hal-05113190",
+		"author": [
+			{
+				"family": "Servatius",
+				"given": "Philipp"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Bogenberger",
+				"given": "Klaus"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/JTUSZXXC",
+		"type": "paper-conference",
+		"container-title": "International Symposium on Transportation Data & Modelling (ISTDM 2025)",
+		"event-title": "International Symposium on Transportation Data & Modelling (ISTDM 2025)",
+		"note": "ipr",
+		"publisher-place": "Montreal, Canada",
+		"title": "A benchmarking methodology to assess population synthesis algorithms: A case study for Ile-de-France",
+		"URL": "https://hal.science/hal-05136394",
+		"author": [
+			{
+				"family": "Zehounkpe",
+				"given": "Jean-Giono"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Oukhellou",
+				"given": "Latifa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/7LY94LHT",
+		"type": "paper-conference",
+		"container-title": "European Transport Conference (ETC 2025)",
+		"event-title": "European Transport Conference (ETC 2025)",
+		"publisher-place": "Antwerp, Belgium",
+		"title": "Integration of parking constraints in agent-based mobility simulations and discrete choice models: a case-study of Paris",
+		"URL": "https://hal.science/hal-05247264",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Asgari",
+				"given": "Fereshteh"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/ERX2B6VH",
+		"type": "paper-conference",
+		"container-title": "105rd Annual Meeting of the Transportation Research Board (TRB 2026)",
+		"event-title": "105rd Annual Meeting of the Transportation Research Board (TRB 2026)",
+		"note": "ipr",
+		"publisher-place": "Washington D.C., USA",
+		"title": "Mode choice in agent-based models: Efficiency and Stability",
+		"URL": "https://hal.science/hal-05245095v1",
+		"author": [
+			{
+				"family": "Balac",
+				"given": "Milos"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/3CMZUEQV",
+		"type": "paper-conference",
+		"container-title": "International Conference on Artificial Intelligence and Innovative Applications (AIIA 2025)",
+		"DOI": "https://doi.org/10.1109/AIIA68273.2025.11383765",
+		"event-title": "International Conference on Artificial Intelligence and Innovative Applications (AIIA 2025)",
+		"note": "ipr",
+		"publisher-place": "Boumerdes, Algeria",
+		"title": "AI-Enhanced Agent-Based Simulation for Urban Mobility Policy Evaluation: Driving Restriction Zones in the Paris Region",
+		"author": [
+			{
+				"family": "Seregina",
+				"given": "Tatiana"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Coulombel",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/KZI6D3U8",
+		"type": "paper-conference",
+		"container-title": "10th International Symposium on the Use of Public Transit Automated Data for Planning, Operations, and Management (TransitData 2026)",
+		"event-title": "10th International Symposium on the Use of Public Transit Automated Data for Planning, Operations, and Management (TransitData 2026)",
+		"note": "ipr",
+		"publisher-place": "Toronto, Canada",
+		"title": "Joint assessment of the impact of future railway services and design of feeder systems: towards an integrated approach",
+		"URL": "https://hal.science/hal-05496787v1",
+		"author": [
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					6
+				]
+			]
+		}
+	}
+]

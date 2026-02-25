@@ -1,0 +1,24 @@
+/** css/custom.css **/
+
+/* This line is theme specific - it includes the base theme CSS */
+@import '../styles/furo.css';       /* for the Read the Docs theme */
+
+.sidebar-container {
+    padding-top: 1.5rem;
+}
+
+.publications {
+    text-align: justify;
+
+    ul {
+        display: contents;
+
+        li {
+            padding-bottom: 0.5em;
+            list-style-type: none;
+            margin-left: 0px;
+            padding-left: 0px;
+            line-height: normal;
+        }
+    }
+}
