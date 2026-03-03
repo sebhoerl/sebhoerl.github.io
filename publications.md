@@ -53,9 +53,13 @@
 ### 2026
 - **Hörl, S.**, Burianne, A., Natterer, E., Engelhardt, R., Müller, J. (2026). Towards a replicable synthetic population and agent-based transport model for Bavaria. *Lecture Notes in Computer Science*, 16031. 23rd International Conference on Practical applications of Agents and Multi-Agent Systems (PAAMS 2025). [doi](https://doi.org/10.1007/978-3-032-07638-0_15)
 
+- Seregina, T., Chouaki, T., Carreyre, F., Coulombel, N., **Hörl, S.** (2026). Towards a Comprehensive Assessment of On-Demand Autonomous Vehicle Services in Rural Areas in Île-de-France Using Multi-Agent Simulations. 17th World Conference of Transport Research (WCTR 2026), July 2026, Toulouse, France.
+
 - Balac, M., **Hörl, S.**, Chouaki, T. (2026). Mode choice in agent-based models: Efficiency and Stability. 105rd Annual Meeting of the Transportation Research Board (TRB 2026), January 2026, Washington D.C., USA. [hal](https://hal.science/hal-05245095v1)
 
 - Chouaki, T., **Hörl, S.** (2026). Joint assessment of the impact of future railway services and design of feeder systems: towards an integrated approach. 10th International Symposium on the Use of Public Transit Automated Data for Planning, Operations, and Management (TransitData 2026), June 2026, Toronto, Canada. [hal](https://hal.science/hal-05496787v1)
+
+- Tahmasebimoradi, A., **Hörl, S.**, Briand, Y. (2026). Data-driven quantification of spatial logistics demand using operator data from Copenhagen. 17th World Conference of Transport Research (WCTR 2026), July 2026, Toulouse, France. [hal](https://hal.science/hal-05291465)
 
 ### 2025
 - Chouaki, T., **Hörl, S.**, Ludwig, O., Axer, S., Rewald, H. (2025). Simulating on-demand person and food transport with intra-day vehicle reconfiguration in Paris. 13th Symposium of the European Association for Research in Transportation (hEART 2025), June 2025, Munich, Germany. [hal](https://hal.science/hal-05020825v1)

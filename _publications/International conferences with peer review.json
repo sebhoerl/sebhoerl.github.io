@@ -2164,5 +2164,76 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/EKICR8WS",
+		"type": "paper-conference",
+		"abstract": "This paper presents a study on logistics demand estimation for the use case of Copenhagen. The benchmarked regression models estimate the number of generated logistics activities per day on spatial grids of varying density. As reference data, real-world volumes of nine operators from the Parcels / Postal sector and the Food & Beverage sector are used. These volumes are modelled using ubiquitously available data from OpenSteetMap. The results show that using the open data, the logistics volumes can be approximated sufficiently. While the present study is a first test of the overall approach, pathways for future improvement and application are given.",
+		"container-title": "17th World Conference of Transport Research (WCTR 2026)",
+		"event-title": "17th World Conference of Transport Research (WCTR 2026)",
+		"publisher-place": "Toulouse, France",
+		"title": "Data-driven quantification of spatial logistics demand using operator data from Copenhagen",
+		"URL": "https://hal.science/hal-05291465",
+		"author": [
+			{
+				"family": "Tahmasebimoradi",
+				"given": "Axel"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Briand",
+				"given": "Yann"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/XQZVM8LH",
+		"type": "paper-conference",
+		"abstract": "This paper presents a study on logistics demand estimation for the use case of Copenhagen. The benchmarked regression models estimate the number of generated logistics activities per day on spatial grids of varying density. As reference data, real-world volumes of nine operators from the Parcels / Postal sector and the Food & Beverage sector are used. These volumes are modelled using ubiquitously available data from OpenSteetMap. The results show that using the open data, the logistics volumes can be approximated sufficiently. While the present study is a first test of the overall approach, pathways for future improvement and application are given.",
+		"container-title": "17th World Conference of Transport Research (WCTR 2026)",
+		"event-title": "17th World Conference of Transport Research (WCTR 2026)",
+		"publisher-place": "Toulouse, France",
+		"title": "Towards a Comprehensive Assessment of On-Demand Autonomous Vehicle Services in Rural Areas in Île-de-France Using Multi-Agent Simulations",
+		"author": [
+			{
+				"family": "Seregina",
+				"given": "Tatiana"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Carreyre",
+				"given": "Felix"
+			},
+			{
+				"family": "Coulombel",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					7
+				]
+			]
+		}
 	}
 ]
