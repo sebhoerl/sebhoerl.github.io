@@ -46,7 +46,10 @@ def format_event(entry):
         return "{}".format(entry["event-title"])
 
 def format_sort_key(entry):
-    return entry["title"]
+    return "".join([
+        entry[element] for element in ("container-title", "title")
+        if element in entry
+    ])
 
 def prepare(path, annual = False):
     with open(path) as f:
