@@ -888,5 +888,41 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/FTYSNAI6",
+		"type": "article-journal",
+		"abstract": "Assigning realistic spatial locations to secondary activities — such as shopping or leisure — in synthetic populations remains a major challenge in activity-based transport modeling. Existing methods, including the frequently used Relaxation-Discretization Algorithm (RDA), succeed in reproducing realistic travel distances but fall short in capturing the spatial clustering of real-world activity patterns. To address this limitation, we introduce a guidance force that draws secondary activities toward dense clusters of relevant points of interest during the relaxation phase of the RDA. This modification enhances the spatial realism of synthetic activity distributions, producing clustered patterns that better reflect observed urban structures. It achieves this without major distortion to trip distance fidelity or requiring additional data inputs. Applied to the region of Lyon, France, our enhanced method shows stronger agreement with household travel surveys and public transport usage data, demonstrating its value for more accurate transport simulations and its potential impact on downstream task. A reference implementation of this work is available in EQUASIM.11Available at https://github.com/eqasim-org/eqasim-france/pull/385.",
+		"container-title": "Computers, Environment and Urban Systems",
+		"DOI": "10.1016/j.compenvurbsys.2026.102431",
+		"journalAbbreviation": "Computers, Environment and Urban Systems",
+		"page": "102431",
+		"title": "Improving the spatial distribution of secondary activities in synthetic populations through guidance forces",
+		"volume": "127",
+		"author": [
+			{
+				"family": "Langrognet",
+				"given": "Pierre-Adrien"
+			},
+			{
+				"family": "Côme",
+				"given": "Étienne"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Oukhellou",
+				"given": "Latifa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026"
+				]
+			]
+		}
 	}
 ]
