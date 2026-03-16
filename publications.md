@@ -5,6 +5,8 @@
 ## Journal articles
 - Mehrabani, B.B., Henrion, V., **Hörl, S.**, Ivanov, N., Mirkovic, B., Blasco, J., Bossaert, E. (2026). Modelling future of airport accessibility: synthetic population and discrete choice model approach to UAM and CCAM demand at Brussels airport. *Case Studies on Transport Policy*, 23, 101654. [doi](https://doi.org/10.1016/j.cstp.2025.101654)
 
+- Langrognet, P., Côme, É., **Hörl, S.**, Oukhellou, L. (2026). Improving the spatial distribution of secondary activities in synthetic populations through guidance forces. *Computers, Environment and Urban Systems*, 127, 102431. [doi](https://doi.org/10.1016/j.compenvurbsys.2026.102431)
+
 - Diepolder, S., Araldo, A., Chouaki, T., Maiti, S., **Hörl, S.**, Antoniou, C. (2025). Quantifying the improvement of accessibility achieved via shared mobility on demand. *Transportation*. [doi](https://doi.org/10.1007/s11116-025-10662-1)
 
 - Natterer, E.S., Rao, S.R., Tejada Lapuerta, A., Engelhardt, R., **Hörl, S.**, Bogenberger, K. (2025). Machine learning surrogates for agent-based models in transportation policy analysis. *Transportation Research Part C: Emerging Technologies*, 180, 105360. [doi](https://doi.org/10.1016/j.trc.2025.105360)
@@ -53,7 +55,7 @@
 ### 2026
 - **Hörl, S.**, Burianne, A., Natterer, E., Engelhardt, R., Müller, J. (2026). Towards a replicable synthetic population and agent-based transport model for Bavaria. *Lecture Notes in Computer Science*, 16031. 23rd International Conference on Practical applications of Agents and Multi-Agent Systems (PAAMS 2025). [doi](https://doi.org/10.1007/978-3-032-07638-0_15)
 
-- Seregina, T., Chouaki, T., Carreyre, F., Coulombel, N., **Hörl, S.** (2026). Towards a Comprehensive Assessment of On-Demand Autonomous Vehicle Services in Rural Areas in Île-de-France Using Multi-Agent Simulations. 17th World Conference of Transport Research (WCTR 2026), July 2026, Toulouse, France.
+- Seregina, T., Chouaki, T., Carreyre, F., Coulombel, N., **Hörl, S.** (2026). Towards a Comprehensive Assessment of On-Demand Autonomous Vehicle Services in Rural Areas in Île-de-France Using Multi-Agent Simulations. 17th World Conference of Transport Research (WCTR 2026), July 2026, Toulouse, France. [hal](https://hal.science/hal-05535446)
 
 - Balac, M., **Hörl, S.**, Chouaki, T. (2026). Mode choice in agent-based models: Efficiency and Stability. 105rd Annual Meeting of the Transportation Research Board (TRB 2026), January 2026, Washington D.C., USA. [hal](https://hal.science/hal-05245095v1)
 
