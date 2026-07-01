@@ -2236,5 +2236,106 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/BPV8J36L",
+		"type": "paper-conference",
+		"container-title": "14th Symposium of the European Association for Research in Transportation (hEART 2026)",
+		"event-title": "14th Symposium of the European Association for Research in Transportation (hEART 2026)",
+		"note": "ipr",
+		"publisher-place": "Paris, France",
+		"title": "Matching analysis for peer-to-peer car-sharing using synthetic populations in France",
+		"author": [
+			{
+				"family": "Namaan",
+				"given": "Ali"
+			},
+			{
+				"family": "Alisoltani",
+				"given": "Negin"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Zargayouna",
+				"given": "Mahdi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/2VVFR25S",
+		"type": "paper-conference",
+		"container-title": "15th International Scientific Conference on Mobility and Transport  (mobil.TUM 2026)",
+		"event-title": "15th International Scientific Conference on Mobility and Transport  (mobil.TUM 2026)",
+		"note": "ipr",
+		"publisher-place": "Singapore",
+		"title": "A rolling-horizon greedy assignment and relocation framework for station-based car-sharing systems",
+		"author": [
+			{
+				"family": "Namaan",
+				"given": "Ali"
+			},
+			{
+				"family": "Alisoltani",
+				"given": "Negin"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Zargayouna",
+				"given": "Mahdi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/SD4B6T8B",
+		"type": "paper-conference",
+		"container-title": "24th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2026)",
+		"event-title": "24th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2026)",
+		"note": "ipr",
+		"publisher-place": "Naples, Italy",
+		"title": "Iterative LLM-based construction of on-demand fleet dispatching algorithms",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Gagnant",
+				"given": "Maxence"
+			},
+			{
+				"family": "Royer",
+				"given": "Martin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					10
+				]
+			]
+		}
 	}
 ]

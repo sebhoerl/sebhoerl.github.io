@@ -3,6 +3,8 @@
 <span class="publications">
 
 ## Journal articles
+- Namaan, A., Alisoltani, N., **Hörl, S.**, Zargayouna, M. (2026). Quantitative Assessment of Peer-to-Peer Car-Sharing Potential in French Cities. *Research in Transportation Business & Management*, 68, 101769. [doi](https://doi.org/10.1016/j.rtbm.2026.101769)
+
 - Langrognet, P., Côme, É., **Hörl, S.**, Oukhellou, L. (2026). Improving the spatial distribution of secondary activities in synthetic populations through guidance forces. *Computers, Environment and Urban Systems*, 127, 102431. [doi](https://doi.org/10.1016/j.compenvurbsys.2026.102431)
 
 - Mehrabani, B.B., Henrion, V., **Hörl, S.**, Ivanov, N., Mirkovic, B., Blasco, J., Bossaert, E. (2026). Modelling future of airport accessibility: synthetic population and discrete choice model approach to UAM and CCAM demand at Brussels airport. *Case Studies on Transport Policy*, 23, 101654. [doi](https://doi.org/10.1016/j.cstp.2025.101654)
@@ -55,9 +57,15 @@
 ### 2026
 - **Hörl, S.**, Burianne, A., Natterer, E., Engelhardt, R., Müller, J. (2026). Towards a replicable synthetic population and agent-based transport model for Bavaria. *Lecture Notes in Computer Science*, 16031. 23rd International Conference on Practical applications of Agents and Multi-Agent Systems (PAAMS 2025). [doi](https://doi.org/10.1007/978-3-032-07638-0_15)
 
+- **Hörl, S.**, Gagnant, M., Royer, M. (2026). Iterative LLM-based construction of on-demand fleet dispatching algorithms. 24th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2026), October 2026, Naples, Italy.
+
 - Seregina, T., Chouaki, T., Carreyre, F., Coulombel, N., **Hörl, S.** (2026). Towards a Comprehensive Assessment of On-Demand Autonomous Vehicle Services in Rural Areas in Île-de-France Using Multi-Agent Simulations. 17th World Conference of Transport Research (WCTR 2026), July 2026, Toulouse, France. [hal](https://hal.science/hal-05535446)
 
 - Tahmasebimoradi, A., **Hörl, S.**, Briand, Y. (2026). Data-driven quantification of spatial logistics demand using operator data from Copenhagen. 17th World Conference of Transport Research (WCTR 2026), July 2026, Toulouse, France. [hal](https://hal.science/hal-05291465)
+
+- Namaan, A., Alisoltani, N., **Hörl, S.**, Zargayouna, M. (2026). A rolling-horizon greedy assignment and relocation framework for station-based car-sharing systems. 15th International Scientific Conference on Mobility and Transport  (mobil.TUM 2026), November 2026, Singapore.
+
+- Namaan, A., Alisoltani, N., **Hörl, S.**, Zargayouna, M. (2026). Matching analysis for peer-to-peer car-sharing using synthetic populations in France. 14th Symposium of the European Association for Research in Transportation (hEART 2026), September 2026, Paris, France.
 
 - Chouaki, T., **Hörl, S.** (2026). Joint assessment of the impact of future railway services and design of feeder systems: towards an integrated approach. 10th International Symposium on the Use of Public Transit Automated Data for Planning, Operations, and Management (TransitData 2026), June 2026, Toronto, Canada. [hal](https://hal.science/hal-05496787v1)
 

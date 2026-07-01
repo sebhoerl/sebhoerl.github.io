@@ -924,5 +924,41 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/DEWPLEBX",
+		"type": "article-journal",
+		"container-title": "Research in Transportation Business & Management",
+		"DOI": "10.1016/j.rtbm.2026.101769",
+		"journalAbbreviation": "Research in Transportation Business & Management",
+		"note": "ipr",
+		"page": "101769",
+		"title": "Quantitative Assessment of Peer-to-Peer Car-Sharing Potential in French Cities",
+		"volume": "68",
+		"author": [
+			{
+				"family": "Namaan",
+				"given": "Ali"
+			},
+			{
+				"family": "Alisoltani",
+				"given": "Negin"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Zargayouna",
+				"given": "Mahdi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026"
+				]
+			]
+		}
 	}
 ]
