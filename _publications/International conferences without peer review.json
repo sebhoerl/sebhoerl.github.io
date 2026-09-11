@@ -249,7 +249,7 @@
 		"id": "http://zotero.org/users/5068314/items/RR7HSCMY",
 		"type": "paper-conference",
 		"abstract": "The use of electric vehicles (EVs) is on the rise, and government initiatives are actively promoting their\nadoption. However, compared to internal combustion vehicles (ICVs), EVs still have a limited range and\nrequire more frequent recharging, making the availability of charging infrastructure a crucial factor in\ntheir attractiveness. With the European Union’s plan to phase out the registration of new ICVs, it is\nessential to evaluate the necessary infrastructure and its optimal location to meet the charging needs of\nthe population. Our objective is to develop functionality in MATSim that enables the simulation of charging behavior\nby agents, allowing us to better understand the dynamics of EV charging and optimize the development\nof the necessary infrastructure.",
-		"container-title": "MATSim User Meeting",
+		"container-title": "MATSim User Meeting 2025",
 		"note": "inpr",
 		"publisher-place": "Munich, Germany",
 		"source": "HAL",
@@ -342,6 +342,31 @@
 				[
 					"2025",
 					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/W3AMEYA5",
+		"type": "paper-conference",
+		"abstract": "The use of electric vehicles (EVs) is on the rise, and government initiatives are actively promoting their\nadoption. However, compared to internal combustion vehicles (ICVs), EVs still have a limited range and\nrequire more frequent recharging, making the availability of charging infrastructure a crucial factor in\ntheir attractiveness. With the European Union’s plan to phase out the registration of new ICVs, it is\nessential to evaluate the necessary infrastructure and its optimal location to meet the charging needs of\nthe population. Our objective is to develop functionality in MATSim that enables the simulation of charging behavior\nby agents, allowing us to better understand the dynamics of EV charging and optimize the development\nof the necessary infrastructure.",
+		"container-title": "MATSim User Meeting 2026 (MUM 2026)",
+		"note": "inpr",
+		"publisher-place": "Paris, France",
+		"source": "HAL",
+		"title": "Benchmarking on-demand mobility algorithms using a new remote dispatching interface for MATSim",
+		"URL": "https://hal.science/hal-05739922",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					9
 				]
 			]
 		}

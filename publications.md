@@ -57,7 +57,7 @@
 ### 2026
 - **Hörl, S.**, Burianne, A., Natterer, E., Engelhardt, R., Müller, J. (2026). Towards a replicable synthetic population and agent-based transport model for Bavaria. *Lecture Notes in Computer Science*, 16031. 23rd International Conference on Practical applications of Agents and Multi-Agent Systems (PAAMS 2025). [doi](https://doi.org/10.1007/978-3-032-07638-0_15)
 
-- **Hörl, S.**, Gagnant, M., Royer, M. (2026). Iterative LLM-based construction of on-demand fleet dispatching algorithms. 24th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2026), October 2026, Naples, Italy.
+- **Hörl, S.**, Gagnant, M., Royer, M. (2026). Iterative LLM-based construction of on-demand fleet dispatching algorithms. 24th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2026), October 2026, Naples, Italy. [hal](https://hal.science/hal-05671885v1)
 
 - Seregina, T., Chouaki, T., Carreyre, F., Coulombel, N., **Hörl, S.** (2026). Towards a Comprehensive Assessment of On-Demand Autonomous Vehicle Services in Rural Areas in Île-de-France Using Multi-Agent Simulations. 17th World Conference of Transport Research (WCTR 2026), July 2026, Toulouse, France. [hal](https://hal.science/hal-05535446)
 
@@ -65,7 +65,9 @@
 
 - Namaan, A., Alisoltani, N., **Hörl, S.**, Zargayouna, M. (2026). A rolling-horizon greedy assignment and relocation framework for station-based car-sharing systems. 15th International Scientific Conference on Mobility and Transport  (mobil.TUM 2026), November 2026, Singapore.
 
-- Namaan, A., Alisoltani, N., **Hörl, S.**, Zargayouna, M. (2026). Matching analysis for peer-to-peer car-sharing using synthetic populations in France. 14th Symposium of the European Association for Research in Transportation (hEART 2026), September 2026, Paris, France.
+- Namaan, A., Alisoltani, N., **Hörl, S.**, Zargayouna, M. (2026). Matching analysis for peer-to-peer car-sharing using synthetic populations in France. 14th Symposium of the European Association for Research in Transportation (hEART 2026), September 2026, Paris, France. [hal](https://hal.science/hal-05725596)
+
+- Rodrigues, G., Puchinger, J., **Hörl, S.**, Kon, F., Camargo, R.Y. (2026). Feeder-aware Optimization for Mobility-on-Demand Systems at Rail Hubs. 12th IEEE International Smart Cities Conference (ISC2 2026), October 2026, Porto, Portugal.
 
 - Chouaki, T., **Hörl, S.** (2026). Joint assessment of the impact of future railway services and design of feeder systems: towards an integrated approach. 10th International Symposium on the Use of Public Transit Automated Data for Planning, Operations, and Management (TransitData 2026), June 2026, Toronto, Canada. [hal](https://hal.science/hal-05496787v1)
 
@@ -187,7 +189,9 @@
 - **Hörl, S.** (2017). A methodology for observation-based accessibility. 7th Symposium of the European Association for Research in Transportation (hEART 2017), September 2017, Haifa, Israel. [link](https://docs.google.com/presentation/d/1aD1i4vwrIc08O6YL1I5KjCTRoVqbnmyIrlOeBB8CXJY/edit?usp=sharing)
 
 ## International conferences without peer review
-- **Hörl, S.**, Ludwig, O., Rewald, H., Axer, S. (2025). Simulating individual charging behaviour in MATSim. *MATSim User Meeting*. [hal](https://hal.science/hal-05117360)
+- **Hörl, S.** (2026). Benchmarking on-demand mobility algorithms using a new remote dispatching interface for MATSim. *MATSim User Meeting 2026 (MUM 2026)*. [hal](https://hal.science/hal-05739922)
+
+- **Hörl, S.**, Ludwig, O., Rewald, H., Axer, S. (2025). Simulating individual charging behaviour in MATSim. *MATSim User Meeting 2025*. [hal](https://hal.science/hal-05117360)
 
 - Chouaki, T., **Hörl, S.**, Grajewski, V., Ludwig, O., Rewald, H., Axer, S. (2025). Multidimensional vehicle loads and capacities for Demand Responsive Transport in MATSim. *MATSim User Meeting 2025*. [hal](https://hal.science/hal-05117452)
 

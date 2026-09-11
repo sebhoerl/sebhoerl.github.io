@@ -6,9 +6,9 @@ My research interest lies in the replicable use and development of highly disagg
 
 ## Upcoming
 
-- I will present our recent work on urban logistics at [WCTR 2026](https://wctr2026.fr/) from **6 to 10 July**, in Toulouse.
-
 - I am part of the organizing committee of **[hEART 2026](https://heart2026.fr/)** in Paris (29 September to 1 October). **See you there!**
+
+- **[Benchmarking on-demand mobility algorithms using a new remote dispatching interface for MATSim](https://hal.science/hal-05739922)**: Presentation at the MATSim User Meeting in Paris in 28 September
 
 - I will present our article titled **Iterative LLM-based construction of on-demand fleet dispatching algorithms** at [PAAMS 2026](https://www.paams.net/) (October, Naples).
 
@@ -18,6 +18,7 @@ My research interest lies in the replicable use and development of highly disagg
 research
 publications
 teaching
+supervision
 cv
 ```
 

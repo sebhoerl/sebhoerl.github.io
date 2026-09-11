@@ -2245,6 +2245,7 @@
 		"note": "ipr",
 		"publisher-place": "Paris, France",
 		"title": "Matching analysis for peer-to-peer car-sharing using synthetic populations in France",
+		"URL": "https://hal.science/hal-05725596",
 		"author": [
 			{
 				"family": "Namaan",
@@ -2315,6 +2316,7 @@
 		"note": "ipr",
 		"publisher-place": "Naples, Italy",
 		"title": "Iterative LLM-based construction of on-demand fleet dispatching algorithms",
+		"URL": "https://hal.science/hal-05671885v1",
 		"author": [
 			{
 				"family": "Hörl",
@@ -2327,6 +2329,46 @@
 			{
 				"family": "Royer",
 				"given": "Martin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/JTXLN3YS",
+		"type": "paper-conference",
+		"container-title": "12th IEEE International Smart Cities Conference (ISC2 2026)",
+		"event-title": "12th IEEE International Smart Cities Conference (ISC2 2026)",
+		"note": "ipr",
+		"publisher-place": "Porto, Portugal",
+		"title": "Feeder-aware Optimization for Mobility-on-Demand Systems at Rail Hubs",
+		"author": [
+			{
+				"family": "Rodrigues",
+				"given": "Gustavo"
+			},
+			{
+				"family": "Puchinger",
+				"given": "Jakob"
+			},
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Kon",
+				"given": "Fabio"
+			},
+			{
+				"family": "Camargo",
+				"given": "Raphael Y.",
+				"non-dropping-particle": "de"
 			}
 		],
 		"issued": {
