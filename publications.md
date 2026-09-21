@@ -189,11 +189,11 @@
 - **Hörl, S.** (2017). A methodology for observation-based accessibility. 7th Symposium of the European Association for Research in Transportation (hEART 2017), September 2017, Haifa, Israel. [link](https://docs.google.com/presentation/d/1aD1i4vwrIc08O6YL1I5KjCTRoVqbnmyIrlOeBB8CXJY/edit?usp=sharing)
 
 ## International conferences without peer review
-- **Hörl, S.** (2026). Benchmarking on-demand mobility algorithms using a new remote dispatching interface for MATSim. *MATSim User Meeting 2026 (MUM 2026)*. [hal](https://hal.science/hal-05739922)
+- **Hörl, S.** (2026). Benchmarking on-demand mobility algorithms using a new remote dispatching interface for MATSim. MATSim User Meeting 2026 (MUM 2026), September 2026, Paris, France. [hal](https://hal.science/hal-05739922)
 
-- **Hörl, S.**, Ludwig, O., Rewald, H., Axer, S. (2025). Simulating individual charging behaviour in MATSim. *MATSim User Meeting 2025*. [hal](https://hal.science/hal-05117360)
+- **Hörl, S.**, Ludwig, O., Rewald, H., Axer, S. (2025). Simulating individual charging behaviour in MATSim. MATSim User Meeting 2025, June 2025, Munich, Germany. [hal](https://hal.science/hal-05117360)
 
-- Chouaki, T., **Hörl, S.**, Grajewski, V., Ludwig, O., Rewald, H., Axer, S. (2025). Multidimensional vehicle loads and capacities for Demand Responsive Transport in MATSim. *MATSim User Meeting 2025*. [hal](https://hal.science/hal-05117452)
+- Chouaki, T., **Hörl, S.**, Grajewski, V., Ludwig, O., Rewald, H., Axer, S. (2025). Multidimensional vehicle loads and capacities for Demand Responsive Transport in MATSim. MATSim User Meeting 2025, June 2025, Munich, Germany. [hal](https://hal.science/hal-05117452)
 
 - Chouaki, T., **Hörl, S.** (2024). The FeederDrt extension: simulation of intermodal on-demand services acting as feeders for public transit. MATSim User Meeting (MUM 2024), June 2024, Helsinki, Finland. [hal](https://hal.science/hal-04555679v1)
 
@@ -217,15 +217,15 @@
 - **Hörl, S.** (2018). An integrated simulation environment for autonomous mobility on demand in Zurich. 18th Swiss Transport Research Conference (STRC), May 2018, Ascona, Switzerland. [link](https://slides.com/sebastianhorl/strc2018)
 
 ## Monographs and book contributions
-- **Hörl, S.** (2025). Towards reproducible agent-based simulations of the transportation system.
+- **Hörl, S.** (2025). Towards reproducible agent-based simulations of the transportation system. Habilitation à Diriger des Recherches.
 
-- Gall, T., Vallet, F., Reyes Madrigal, L.M., **Hörl, S.**, Abdin, A., Chouaki, T., Puchinger, J. (2023). Sustainable Urban Mobility Futures. [doi](https://doi.org/10.1007/978-3-031-45795-1)
+- Gall, T., Vallet, F., Reyes Madrigal, L.M., **Hörl, S.**, Abdin, A., Chouaki, T., Puchinger, J. (2023). Sustainable Urban Mobility Futures. Springer Nature Switzerland, Cham. [doi](https://doi.org/10.1007/978-3-031-45795-1)
 
-- **Hörl, S.** (2020). Dynamic demand estimation for Automated Mobility on Demand.
+- **Hörl, S.** (2020). Dynamic demand estimation for Automated Mobility on Demand. PhD Thesis.
 
-- **Hörl, S.** (2016). Implementation of an autonomous taxi service in a multi-modal traffic simulation using MATSim. [hal](https://odr.chalmers.se/items/d6ae3a9b-8ef9-4dfe-af53-9067bb2b7ac4)
+- **Hörl, S.** (2016). Implementation of an autonomous taxi service in a multi-modal traffic simulation using MATSim. Master thesis. [hal](https://odr.chalmers.se/items/d6ae3a9b-8ef9-4dfe-af53-9067bb2b7ac4)
 
-- **Hörl, S.** (2014). Smooth approximation of two-dimensional G-Code trajectories in time-optimal CNC machining.
+- **Hörl, S.** (2014). Smooth approximation of two-dimensional G-Code trajectories in time-optimal CNC machining. Bachelor thesis.
 
 ## Reports, professional magazines, and data papers
 - **Hörl, S.**, Laurent, M., Le Bescond, V., Chouaki, T., Vandanjon, P. (2025). Des populations synthétiques ouvertes et replicables pour la France: approche, usages et prochaines étapes. [hal](https://hal.science/hal-05018081v1)

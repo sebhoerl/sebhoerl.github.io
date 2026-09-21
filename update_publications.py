@@ -78,6 +78,15 @@ def prepare(path, annual = False):
             if "event-title" in entry:
                 content.append(" {}.".format(format_event(entry)))
 
+            if entry["type"] == "thesis" and "genre" in entry:
+                content.append(" {}.".format(entry["genre"]))
+
+            if entry["type"] == "book":
+                if "publisher" in entry and "publisher-place" in entry:
+                    content.append(" {}, {}.".format(entry["publisher"], entry["publisher-place"]))
+                elif "publisher" in entry:
+                    content.append(" {}.".format(entry["publisher"]))
+
             if "DOI" in entry:
                 doi = entry["DOI"].split("doi.org/")[-1]
                 content.append(" [doi](https://doi.org/{})".format(doi))
