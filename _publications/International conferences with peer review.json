@@ -2311,12 +2311,14 @@
 	{
 		"id": "http://zotero.org/users/5068314/items/SD4B6T8B",
 		"type": "paper-conference",
-		"container-title": "24th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2026)",
+		"container-title": "Lecture Notes in Computer Science",
+		"DOI": "10.1007/978-3-032-41794-7_17",
 		"event-title": "24th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2026)",
 		"note": "ipr",
 		"publisher-place": "Naples, Italy",
 		"title": "Iterative LLM-based construction of on-demand fleet dispatching algorithms",
 		"URL": "https://hal.science/hal-05671885v1",
+		"volume": "17174",
 		"author": [
 			{
 				"family": "Hörl",

@@ -4,13 +4,13 @@ I am a permanent **senior researcher** at [IRT SystemX](https://irt-systemx.fr/)
 
 My research interest lies in the replicable use and development of highly disaggregated simulations of complex socio-technical systems with a focus on transportation and mobility. Key aspects of my work are the advancement of methods for the generation of **synthetic populations** and the development of **agent-based simulations**. My overarching goal is to design, develop, and maintain the respective **open-source** tools and strongly foster the use of **open data** to ensure **reproducibility** in research and practice.
 
-## Upcoming
+## Updates
 
-- I am part of the organizing committee of **[hEART 2026](https://heart2026.fr/)** in Paris (29 September to 1 October). **See you there!**
+- I will give a keynote at the [People - City - Transport conference](https://www.fa.cvut.cz/pctconference2026) in Prague (12 - 13 November).
 
-- **[Benchmarking on-demand mobility algorithms using a new remote dispatching interface for MATSim](https://hal.science/hal-05739922)**: Presentation at the MATSim User Meeting in Paris in 28 September
+- Presented on [Benchmarking on-demand mobility algorithms using a new remote dispatching interface for MATSim](https://hal.science/hal-05739922) at the [MATSim User Meeting](https://www.matsim.org/conferences/mum2026/).
 
-- I will present our article titled **Iterative LLM-based construction of on-demand fleet dispatching algorithms** at [PAAMS 2026](https://www.paams.net/) (October, Naples).
+- Presented on [Iterative LLM-based construction of on-demand fleet dispatching algorithms](https://link.springer.com/chapter/10.1007/978-3-032-41794-7_17) at [PAAMS 2026](https://www.paams.net/).
 
 ```{toctree}
 :hidden:

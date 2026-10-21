@@ -57,7 +57,7 @@
 ### 2026
 - **Hörl, S.**, Burianne, A., Natterer, E., Engelhardt, R., Müller, J. (2026). Towards a replicable synthetic population and agent-based transport model for Bavaria. *Lecture Notes in Computer Science*, 16031. 23rd International Conference on Practical applications of Agents and Multi-Agent Systems (PAAMS 2025). [doi](https://doi.org/10.1007/978-3-032-07638-0_15)
 
-- **Hörl, S.**, Gagnant, M., Royer, M. (2026). Iterative LLM-based construction of on-demand fleet dispatching algorithms. 24th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2026), October 2026, Naples, Italy. [hal](https://hal.science/hal-05671885v1)
+- **Hörl, S.**, Gagnant, M., Royer, M. (2026). Iterative LLM-based construction of on-demand fleet dispatching algorithms. *Lecture Notes in Computer Science*, 17174. 24th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2026). [doi](https://doi.org/10.1007/978-3-032-41794-7_17)
 
 - Seregina, T., Chouaki, T., Carreyre, F., Coulombel, N., **Hörl, S.** (2026). Towards a Comprehensive Assessment of On-Demand Autonomous Vehicle Services in Rural Areas in Île-de-France Using Multi-Agent Simulations. 17th World Conference of Transport Research (WCTR 2026), July 2026, Toulouse, France. [hal](https://hal.science/hal-05535446)
 
