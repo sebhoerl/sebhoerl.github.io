@@ -2,11 +2,12 @@
 
 ## Large-scale models and simulation methods
 
-**Autumn 2025**
-- [Course slides](https://slides.com/sebastianhorl/large-scale-models-and-simulation-methods-2025)
+**Autumn 2026**
+- [Course slides](https://slides.com/sebastianhorl/lsmsm26)
 - [Course project on Github](https://github.com/sebhoerl/course-uge)
 
-**Previous editions**: [Autumn 2024](https://slides.com/sebastianhorl/large-scale-models-and-simulation-methods-dec24), [Spring 2024](https://slides.com/sebastianhorl/lsms24), [Spring 2023](https://slides.com/sebastianhorl/gpe-uge-2023), [Spring 2022](https://slides.com/sebastianhorl/gpe-uge-22), [Spring 2021](https://slides.com/sebastianhorl/gpe-project)
+**Previous editions**: 
+- [Autumn 2025](https://slides.com/sebastianhorl/large-scale-models-and-simulation-methods-2025), [Autumn 2024](https://slides.com/sebastianhorl/large-scale-models-and-simulation-methods-dec24), [Spring 2024](https://slides.com/sebastianhorl/lsms24), [Spring 2023](https://slides.com/sebastianhorl/gpe-uge-2023), [Spring 2022](https://slides.com/sebastianhorl/gpe-uge-22), [Spring 2021](https://slides.com/sebastianhorl/gpe-project)
 
 ## Individual courses
 
@@ -31,3 +32,8 @@
 **Université Gustave Eiffel**
 - Open software and data in research ([2020](https://slides.com/sebastianhorl/matsim-ecosystem-france))
 - Scientific work and reproducibility ([2021](https://slides.com/sebastianhorl/uge-29sep21))
+
+## Suppporting activities
+
+**Ecole d'Ingénieurs de la Ville de Paris (EIVP)**
+- Algorithms and programming in Python
