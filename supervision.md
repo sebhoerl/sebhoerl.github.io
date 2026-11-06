@@ -3,7 +3,7 @@
 ## Ongoing
 
 - Ali Namaan (since 2025), Université Gustae Eiffel, GRETTIA, co-supervisor
-- Jean-Giono Zehounkpe (since 2024), Université Gustave Eiffel, GRETTIA, co-supervisor
+- Jean-Giono Zehounkpe (since 2024), Université Gustave Eiffel, GRETTIA, main supervisor
 
 ## Past
 
