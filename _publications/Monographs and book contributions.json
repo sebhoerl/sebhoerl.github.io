@@ -1,11 +1,11 @@
 [
 	{
-		"id": "http://zotero.org/users/5068314/items/YMTTKIIJ",
+		"id": "http://zotero.org/users/5068314/items/I56YBSPG",
 		"type": "thesis",
-		"genre": "Bachelor thesis",
-		"publisher": "Otto-von-Guericke-University Magdeburg",
-		"publisher-place": "Magdeburg, Germany",
-		"title": "Smooth approximation of two-dimensional G-Code trajectories in time-optimal CNC machining",
+		"genre": "Habilitation à Diriger des Recherches",
+		"publisher": "Université Paris-Est",
+		"publisher-place": "Paris, France",
+		"title": "Towards reproducible agent-based simulations of the transportation system",
 		"author": [
 			{
 				"family": "Hörl",
@@ -15,50 +15,8 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2014"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/5068314/items/LL854JNL",
-		"type": "thesis",
-		"genre": "Master thesis",
-		"publisher": "Chalmers University of Technology",
-		"publisher-place": "Göteborg, Sweden",
-		"title": "Implementation of an autonomous taxi service in a multi-modal traffic simulation using MATSim",
-		"URL": "https://odr.chalmers.se/items/d6ae3a9b-8ef9-4dfe-af53-9067bb2b7ac4",
-		"author": [
-			{
-				"family": "Hörl",
-				"given": "Sebastian"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/5068314/items/69AH9RTW",
-		"type": "thesis",
-		"genre": "PhD Thesis",
-		"publisher": "ETH Zurich",
-		"publisher-place": "Zürich, Switzerland",
-		"title": "Dynamic demand estimation for Automated Mobility on Demand",
-		"author": [
-			{
-				"family": "Hörl",
-				"given": "Sebastian"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2020"
+					"2025",
+					5
 				]
 			]
 		}
@@ -124,12 +82,13 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/5068314/items/I56YBSPG",
+		"id": "http://zotero.org/users/5068314/items/LL854JNL",
 		"type": "thesis",
-		"genre": "Habilitation à Diriger des Recherches",
-		"publisher": "Université Paris-Est",
-		"publisher-place": "Paris, France",
-		"title": "Towards reproducible agent-based simulations of the transportation system",
+		"genre": "Master thesis",
+		"publisher": "Chalmers University of Technology",
+		"publisher-place": "Göteborg, Sweden",
+		"title": "Implementation of an autonomous taxi service in a multi-modal traffic simulation using MATSim",
+		"URL": "https://odr.chalmers.se/items/d6ae3a9b-8ef9-4dfe-af53-9067bb2b7ac4",
 		"author": [
 			{
 				"family": "Hörl",
@@ -139,8 +98,49 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2025",
-					5
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/69AH9RTW",
+		"type": "thesis",
+		"genre": "PhD Thesis",
+		"publisher": "ETH Zurich",
+		"publisher-place": "Zürich, Switzerland",
+		"title": "Dynamic demand estimation for Automated Mobility on Demand",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5068314/items/YMTTKIIJ",
+		"type": "thesis",
+		"genre": "Bachelor thesis",
+		"publisher": "Otto-von-Guericke-University Magdeburg",
+		"publisher-place": "Magdeburg, Germany",
+		"title": "Smooth approximation of two-dimensional G-Code trajectories in time-optimal CNC machining",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
 				]
 			]
 		}

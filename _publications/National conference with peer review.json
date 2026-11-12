@@ -1,5 +1,40 @@
 [
 	{
+		"id": "http://zotero.org/users/5068314/items/Y6MCES4Z",
+		"type": "paper-conference",
+		"container-title": "4ème conférence annuelle de l’Association Française d’Economie des Transports (AFET 2026)",
+		"event-title": "4ème conférence annuelle de l’Association Française d’Economie des Transports (AFET 2026)",
+		"note": "npr",
+		"publisher-place": "Paris, France",
+		"title": "Analyse de l’éligibilité au leasing social en France à partir d’une population synthétique construite sur les données ERFS et IRCOM",
+		"URL": "https://hal.science/hal-05783960",
+		"author": [
+			{
+				"family": "Hörl",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Chouaki",
+				"given": "Tarek"
+			},
+			{
+				"family": "Burianne",
+				"given": "Arthur"
+			},
+			{
+				"family": "Briand",
+				"given": "Yann"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026"
+				]
+			]
+		}
+	},
+	{
 		"id": "http://zotero.org/users/5068314/items/DWD93CF2",
 		"type": "paper-conference",
 		"container-title": "18th Swiss Transport Research Conference (STRC)",
