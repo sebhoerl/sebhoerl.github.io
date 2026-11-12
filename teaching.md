@@ -36,4 +36,4 @@
 ## Suppporting activities
 
 **Ecole d'Ingénieurs de la Ville de Paris (EIVP)**
-- Algorithms and programming in Python
+- Algorithms and programming in Python (2026)
