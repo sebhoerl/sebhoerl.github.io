@@ -208,6 +208,8 @@
 - **Hörl, S.** (2017). The IVT baseline scenario: Current version and outlook, presentation at the MATSim User Meeting, September 2017. MATSim User Meeting (MUM 2017), September 2017, Haifa, Israel. [link](https://docs.google.com/presentation/d/1eU8lD3hkxdIzL4d7zRSasrSOLLhbh-WBbseFWtqhopw/edit?usp=sharing)
 
 ## National conferences with peer review
+- **Hörl, S.**, Chouaki, T., Burianne, A., Briand, Y. (2026). Analyse de l’éligibilité au leasing social en France à partir d’une population synthétique construite sur les données ERFS et IRCOM. 4ème conférence annuelle de l’Association Française d’Economie des Transports (AFET 2026), 2026, Paris, France. [hal](https://hal.science/hal-05783960)
+
 - Chouaki, T., **Hörl, S.** (2025). Vers la prise en compte des trajets inter-régionaux dans les simulations multi-agent locales de mobilité en utilisant une population synthétique métropolitaine. 7èmes Rencontres Francophones Transport Mobilité (RFTM 2025), June 2025, Dunkerque, France. [hal](https://hal.science/hal-04969895)
 
 - **Hörl, S.**, Tchervenkov, C., Balac, M. (2021). Des modèles multi-agent de transport à grande échelle dans le monde francophone. 3èmes Rencontres Francophones Transport Mobilité (RFTM 2021), June 2021, Marne-la-Vallée, France. [link](https://slides.com/sebastianhorl/rftm21)
