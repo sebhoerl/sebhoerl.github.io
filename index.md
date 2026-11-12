@@ -6,11 +6,20 @@ My research interest lies in the replicable use and development of highly disagg
 
 ## Updates
 
-- I will give a keynote at the [People - City - Transport conference](https://www.fa.cvut.cz/pctconference2026) in Prague (12 - 13 November).
+- Organizing a thematic session on *synthetic populations and applications in mobility and transport* at the [9th Rencontres Francophones Transport Mobilité (RFTM 2027)](https://rftm2027.sciencesconf.org/). Submissions are open until 19 December 2026!
 
-- Presented on [Benchmarking on-demand mobility algorithms using a new remote dispatching interface for MATSim](https://hal.science/hal-05739922) at the [MATSim User Meeting](https://www.matsim.org/conferences/mum2026/).
+- Keynote at the [People - City - Transport conference](https://www.fa.cvut.cz/pctconference2026) in Prague (12 - 13 November 2026).
 
-- Presented on [Iterative LLM-based construction of on-demand fleet dispatching algorithms](https://link.springer.com/chapter/10.1007/978-3-032-41794-7_17) at [PAAMS 2026](https://www.paams.net/).
+- Presenting eqasim in the GDR MAGIS workshop at the [SAGEO conference 2026](https://sageo2026.sciencesconf.org/) in Toulouse (17 November 2026).
+
+- Presenting a novel income model for a synthetic population of France applied to the *leasing social* policy at the 4th conference of the [Association Française d’Economie des Transports](https://afet-asso.fr/manifestations/conferences-de-lafet/quatrieme-conference-de-lafet-novembre-2026) in Paris (18 - 19 November 2026)
+
+## Recent presentations / papers
+
+- [Benchmarking on-demand mobility algorithms using a new remote dispatching interface for MATSim](https://hal.science/hal-05739922) presented at the [MATSim User Meeting](https://www.matsim.org/conferences/mum2026/).
+
+- [Iterative LLM-based construction of on-demand fleet dispatching algorithms](https://link.springer.com/chapter/10.1007/978-3-032-41794-7_17) presented at [PAAMS 2026](https://www.paams.net/).
+
 
 ```{toctree}
 :hidden:
