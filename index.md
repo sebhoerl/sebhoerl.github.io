@@ -12,7 +12,7 @@ My research interest lies in the replicable use and development of highly disagg
 
 - Presenting eqasim in the GDR MAGIS workshop at the [SAGEO conference 2026](https://sageo2026.sciencesconf.org/) in Toulouse (17 November 2026).
 
-- Presenting a novel income model for a synthetic population of France applied to the *leasing social* policy at the 4th conference of the [Association Française d’Economie des Transports](https://afet-asso.fr/manifestations/conferences-de-lafet/quatrieme-conference-de-lafet-novembre-2026) in Paris (18 - 19 November 2026)
+- Presenting a novel income model for a synthetic population of France applied to the *leasing social* policy at the 4th conference of the [Association Française d’Economie des Transports](https://afet-asso.fr/manifestations/conferences-de-lafet/quatrieme-conference-de-lafet-novembre-2026) in Paris (18 - 19 November 2026) [[Link](https://slides.com/sebastianhorl/afet2026)]
 
 ## Recent presentations / papers
 
